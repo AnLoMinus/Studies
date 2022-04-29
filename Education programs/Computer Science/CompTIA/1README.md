@@ -1,3 +1,4 @@
+Current location: `~/Studies/Education programs/Computer Science/CompTIA`
 
 CompTIA IT Certification Roadmap Full
 
