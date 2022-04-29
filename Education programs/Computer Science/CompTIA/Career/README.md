@@ -109,12 +109,9 @@ CompTIA IT Certification Roadmap Full
     <div>
       <p>What does an IT Support Specialist do?</p>
       <p>IT Support Specialists install software, set up computer workspaces, and solve technical issues that arise on a day-to-day basis.</p>
-      <p>Median National Salary*:</p>
-      <span>$50,981</span>
-      <p>Annual Job Postings*:</p>
-      <span>230,000+</span>
+      <p>Median National Salary: $50,981</p>
+      <p>Annual Job Postings: 230,000+</p>
       <p>Expected Job Growth*:</p>
-      <span>Learn More</a>
     </div>
   </div>
 </div>
