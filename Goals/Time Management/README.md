@@ -6,7 +6,7 @@
 
 ## Description
 
-### What you’ll learn
+## What you’ll learn
 - Use these 7 specific steps to immediately increase your productivity
 - Avoid one of the biggest time management traps almost everyone falls into
 
