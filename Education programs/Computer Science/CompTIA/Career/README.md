@@ -98,8 +98,28 @@ CompTIA IT Certification Roadmap Full
 
 
 ---
-#### CompTIA's IT career path planning
-- [IT Support Specialist]()
+#### [CompTIA's IT career path planning](https://www.comptia.org/content/it-careers-path-roadmap)
+<details>
+  <summary>
+    <h4> IT Support Specialist</h4>
+  </summary>
+<div>
+  <div>
+    <h5>IT Support Specialist</h5>
+    <div>
+      <p>What does an IT Support Specialist do?</p>
+      <p>IT Support Specialists install software, set up computer workspaces, and solve technical issues that arise on a day-to-day basis.</p>
+      <p>Median National Salary*:</p>
+      <span>$50,981</span>
+      <p>Annual Job Postings*:</p>
+      <span>230,000+</span>
+      <p>Expected Job Growth*:</p>
+      <span>Learn More</a>
+    </div>
+  </div>
+</div>
+</details>  
+
 - [IT Networking Specialist]()
 - [Cybersecurity Specialist]()
 - [Software & Web Developers]()
