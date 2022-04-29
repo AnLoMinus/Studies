@@ -1,0 +1,10 @@
+# The Full ComptTIA IT Certification Roadmap 
+- [Project Management]()
+- [IT Skiils for Office Productivity]()
+- [Software Archtecture]()
+- [Service & Help Desk]()
+- [Database Administrator]()
+- [Network Administrator]()
+- [Security]()
+- [Networking]()
+- [Training]()
