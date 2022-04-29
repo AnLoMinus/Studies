@@ -1,0 +1,1 @@
+- /Studies/Education programs/Computer Science/CompTIA
