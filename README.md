@@ -11,13 +11,13 @@ Studies - All the subjects I study and teach!
 
 ---
 
-
 <h1><a href="https://en.wikipedia.org/wiki/List_of_academic_fields">List of academic fields</h1>
 <div>
-    <div>From Wikipedia, the free encyclopedia</div><a href="https://en.wikipedia.org/wiki/List_of_academic_fields#mw-head">Jump to navigation</a> <a href="https://en.wikipedia.org/wiki/List_of_academic_fields#searchInput">Jump to search</a>
+    <div align="center">From Wikipedia, the free encyclopedia </div>
+    <a href="https://en.wikipedia.org/wiki/List_of_academic_fields#mw-head">Jump to navigation</a> 
+    <a href="https://en.wikipedia.org/wiki/List_of_academic_fields#searchInput">Jump to search</a>
     <div>
         <div>
-            <p><br></p>
             <div>Main articles:&nbsp;<a href="https://en.wikipedia.org/wiki/Discipline_(academia)" title="Discipline (academia)">Discipline (academia)</a> and&nbsp;<a href="https://en.wikipedia.org/wiki/History_of_academic_disciplines" title="History of academic disciplines">History of academic disciplines</a></div>
             <p>An&nbsp;<strong>******** discipline</strong> or&nbsp;<strong>field of study</strong> is known as a branch of&nbsp;<a href="https://en.wikipedia.org/wiki/Knowledge" title="Knowledge">knowledge</a>. ** is&nbsp;<a href="https://en.wikipedia.org/wiki/Education" title="Education">taught</a> as an ********** part of&nbsp;<a href="https://en.wikipedia.org/wiki/Higher_education" title="Higher education">higher education</a>. A scholar&apos;s discipline is commonly defined and recognized by a&nbsp;<a href="https://en.wikipedia.org/wiki/Faculty_(division)" title="Faculty (division)">university faculty.</a> That person will be accredited by&nbsp;<a href="https://en.wikipedia.org/wiki/Learned_society" title="Learned society">learned societies</a> to which they belong along with the&nbsp;<a href="https://en.wikipedia.org/wiki/Academic_journal" title="Academic journal">academic journals</a> ** which **** publish. However, no formal criteria ***** for defining an ******** discipline.</p>
             <p>Disciplines vary between universities and even programs. ***** **** have well-defined rosters of ******** and *********** supported by a few ************ *** publications. **** disciplines are ****** down into (potentially overlapping) branches called sub-disciplines.</p>
