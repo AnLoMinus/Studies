@@ -115,7 +115,7 @@ CompTIA IT Certification Roadmap Full
   
 ---
 
-  #### Levels
+#### Levels
 - Level: Beginner / Novice 
 - Level: Intermediate 
 - Level: Advanced
@@ -124,6 +124,7 @@ CompTIA IT Certification Roadmap Full
 
 ---
 
+#### Career
 - [Project Management]()
 - [IT Skiils for Office Productivity]()
 - [Software Archtecture]()
