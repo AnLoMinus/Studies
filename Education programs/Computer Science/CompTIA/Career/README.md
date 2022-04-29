@@ -48,7 +48,7 @@ CompTIA IT Certification Roadmap Full
     <td></td>
     <td>Training</td>
   </tr>
-  <tr>
+`  <tr>
     <td></td>
     <td></td>
   </tr>
@@ -68,46 +68,7 @@ CompTIA IT Certification Roadmap Full
     <td></td>
     <td></td>
   </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td></td>
-  </tr>
+`  
 </tbody>
 </table>
 </div>
@@ -134,3 +95,12 @@ CompTIA IT Certification Roadmap Full
 - [Security]()
 - [Networking]()
 - [Training]()
+
+
+---
+#### CompTIA's IT career path planning
+- [IT Support Specialist]()
+- [IT Networking Specialist]()
+- [Cybersecurity Specialist]()
+- [Software & Web Developers]()
+- [Data Specialist]()
