@@ -1,0 +1,58 @@
+Module 1 Notes: Windows Features and Requirements
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Pluralsight: Windows Operating System Fundamentals
+https://www.pluralsight.com/courses/windows-operating-system-fundamentals-install-configure
+
+Pluralsight: Introduction to Windows 8.1
+https://www.pluralsight.com/courses/windows-81-introduction
+
+Windows Version History
+http://windows.microsoft.com/en-us/windows/history#T1=era0
+https://www.wikiwand.com/en/History_of_Microsoft_Windows
+https://www.wikiwand.com/en/List_of_Microsoft_Windows_versions
+
+Windows OS Support Lifecycle
+http://windows.microsoft.com/en-us/windows/lifecycle
+
+32-Bit vs. 64-Bit Operating Systems
+http://windows.microsoft.com/en-us/windows/32-bit-and-64-bit-windows#1TC=windows-7
+
+Windows Upgrade Paths
+https://technet.microsoft.com/en-us/library/dd772579(v=ws.10).aspx
+https://technet.microsoft.com/en-us/library/jj203353.aspx
+http://www.askvg.com/windows-10-upgrade-paths-and-things-to-know-before-upgrading/
+
+Microsoft Anytime Upgrade
+http://windows.microsoft.com/en-us/windows7/what-is-windows-anytime-upgrade
+
+USMT and USMT GUI
+https://technet.microsoft.com/en-us/library/hh825256.aspx
+http://usmtgui.ehler.dk/
+
+Application Compatibility Toolkit (ACT)
+https://msdn.microsoft.com/en-us/library/windows/desktop/dd562082(v=vs.85).aspx
+
+Windows Upgrade Advisor/Assistant
+http://windows.microsoft.com/en-us/windows-8/upgrade-assistant-download-online-faq
+
+Display Windows Version on Desktop
+http://www.howtogeek.com/58298/stupid-geek-tricks-how-to-display-the-windows-version-on-the-desktop/
+
+Disable Aero and Other Graphical Effects
+http://www.howtogeek.com/howto/windows-vista/disable-aero-on-windows-vista/
+
+What's Backed Up with System Restore?
+http://windows.microsoft.com/en-us/windows-vista/what-types-of-files-does-system-restore-change
+
+Classic Shell and Start8 (Start Screen Replacements)
+http://classicshell.net/
+https://www.stardock.com/products/start8/
+
+Oracle VirtualBox VM
+http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html
+
+Windows 8.1 Hyper-V
+http://blogs.technet.com/b/canitpro/archive/2014/03/11/step-by-step-enabling-hyper-v-for-use-on-windows-8-1.aspx

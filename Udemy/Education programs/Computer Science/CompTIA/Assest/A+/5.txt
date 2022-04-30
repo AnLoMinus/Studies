@@ -1,0 +1,32 @@
+Module 5 Notes: Windows Control Panel
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Pluralsight: Windows 8 - Where'd it Go?
+https://www.pluralsight.com/courses/windows-8-whered-it-go
+
+Pluralsight: Windows Vista Part 4 - Advanced Features
+https://www.pluralsight.com/courses/windows-vista-pt4-advanced-features
+
+Windows Control Panel History
+https://www.wikiwand.com/en/Control_Panel_(Windows)
+
+Internet Explorer vs. Microsoft Edge Browser
+http://www.pcworld.com/article/2918252/five-ways-edge-trumps-internet-explorer.html
+
+Control Panel File Names
+https://support.microsoft.com/en-us/kb/149648
+
+Windows PowerShell Control Panel Cmdlets
+https://technet.microsoft.com/en-us/library/hh849752.aspx
+https://technet.microsoft.com/en-us/library/hh849779.aspx
+
+MMC File Names
+http://www.e-squillace.com/Tech/Misc/Tricks/MSC-Shortcut-FileNames.htm
+
+Change Default File Explorer View
+https://superuser.com/questions/681512/change-the-default-view-setting-for-explorer-in-windows-8-1
+
+Troubleshooters
+http://www.dell.com/support/article/us/en/19/SLN131805

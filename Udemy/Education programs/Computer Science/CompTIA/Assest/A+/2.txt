@@ -1,0 +1,36 @@
+Module 2 Notes: Windows Installation
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Pluralsight: Windows 8 Deployment with WDS
+https://www.pluralsight.com/courses/windows-8-deploy-wds
+
+Pluralsight: Windows Server 2012 (70-410) Install and Configure Servers
+https://www.pluralsight.com/courses/windows-server-2012-70-410-install-configure-servers
+
+Raspberry Pi
+https://www.raspberrypi.org/
+http://www.amazon.com/Hacking-Raspberry-Pi-Timothy-Warner/dp/0789751569
+
+Running Windows on the Mac
+http://www.howtogeek.com/187359/5-ways-to-run-windows-software-on-a-mac/
+
+How to View System Recovery Partition
+http://www.intowindows.com/how-to-open-hidden-system-reserved-partition-in-windows-7/
+http://science.opposingviews.com/reveal-contents-hp-recovery-partitions-9441.html
+
+MMC Console File Names
+http://www.e-squillace.com/Tech/Misc/Tricks/MSC-Shortcut-FileNames.htm
+
+Control Panel File Names
+https://support.microsoft.com/en-us/kb/192806
+
+Oracle VirtualBox VM
+http://www.oracle.com/technetwork/server-storage/virtualbox/downloads/index.html
+
+Microsoft Evaluation Software
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2012-r2
+
+"Manage Herds, Not Pets"
+https://news.ycombinator.com/item?id=7311704

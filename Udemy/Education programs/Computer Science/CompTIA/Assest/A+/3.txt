@@ -1,0 +1,70 @@
+Module 3 Notes: Command-Line Tools
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Pluralsight: PowerShell - Getting Started
+https://www.pluralsight.com/courses/powershell-getting-started
+
+Pluralsight: CompTIA A+ Part 4 - Operating Systems
+https://www.pluralsight.com/courses/comptia-a-plus-operating-systems
+
+Windows PowerShell
+https://msdn.microsoft.com/en-us/powershell
+https://technet.microsoft.com/en-us/library/ms714469(v=vs.85).aspx
+
+ss64.com
+http://ss64.com/nt/
+http://ss64.com/ps/
+
+Tasklist and Taskkill
+https://technet.microsoft.com/en-us/library/bb491010.aspx
+https://technet.microsoft.com/en-us/library/bb491009.aspx
+
+Shutdown
+https://technet.microsoft.com/en-us/library/bb491003.aspx
+
+Bootrec
+https://support.microsoft.com/en-us/kb/927392
+
+cd, rd, md
+http://ss64.com/nt/cd.html
+http://ss64.com/nt/rd.html
+http://ss64.com/nt/md.html
+
+del
+http://ss64.com/nt/del.html
+
+diskpart
+https://technet.microsoft.com/en-us/library/cc766465(v=ws.10).aspx
+
+copy, xcopy
+https://technet.microsoft.com/en-us/library/bb490886.aspx
+https://technet.microsoft.com/en-us/library/cc771254.aspx
+
+dir
+http://ss64.com/nt/dir.html
+
+Robocopy, Robocopy GUI, RichCopy
+https://technet.microsoft.com/en-us/library/cc733145.aspx
+https://technet.microsoft.com/en-us/magazine/2006.11.utilityspotlight.aspx
+https://technet.microsoft.com/en-us/magazine/2009.04.utilityspotlight.aspx
+
+sfc
+https://technet.microsoft.com/en-us/library/bb491008.aspx
+
+chkdsk
+https://technet.microsoft.com/en-us/magazine/dd637756.aspx
+
+Gpupdate, Gpresult
+https://technet.microsoft.com/en-us/library/bb490983.aspx
+https://technet.microsoft.com/en-us/library/cc733160.aspx
+
+Help
+http://ss64.com/nt/help.html
+
+Extract
+https://technet.microsoft.com/en-us/library/cc770774.aspx
+
+AT
+https://technet.microsoft.com/en-us/library/bb490866.aspx

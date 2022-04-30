@@ -1,0 +1,28 @@
+Module 7 Notes: Common Maintenance Procedures
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Configuring Windows Server to Back Up to Microsoft Azure
+https://azure.microsoft.com/en-us/documentation/articles/backup-configure-vault/
+
+Windows PowerShell Backup Commands
+https://technet.microsoft.com/en-us/library/ee706683.aspx
+
+How Updating Works in Windows 10
+http://lifehacker.com/windows-10-uses-your-bandwidth-to-distribute-updates-d-1721091469
+
+Why You Should Avoid Third-Party Driver Updater Utilities
+http://www.howtogeek.com/198758/never-download-a-driver-updating-utility-theyre-worse-than-useless/
+
+What's Backed Up in a System Restore
+http://windows.microsoft.com/en-us/windows-vista/what-types-of-files-does-system-restore-change
+
+How Often Windows Creates Restore Points
+http://windows.microsoft.com/en-us/windows/system-restore-faq#1TC=windows-7
+
+Finding System Restore Point Data on Disk
+https://superuser.com/questions/210297/where-are-the-windows-7-system-restore-points-stored-and-how-to-preserve-them
+
+Refresh or Reset Your Windows 8.1 PC
+http://windows.microsoft.com/en-us/windows-8/restore-refresh-reset-pc

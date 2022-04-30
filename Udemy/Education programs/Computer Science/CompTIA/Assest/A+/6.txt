@@ -1,0 +1,33 @@
+Module 6 Notes: Windows Networking
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Pluralsight: Windows Client Administration Fundamentals
+https://www.pluralsight.com/courses/windows-client-administration
+
+Pluralsight: Windows Operating System Fundamentals - Managing and Maintaining
+https://www.pluralsight.com/courses/windows-operating-system-fundamentals-managing-maintaining
+
+Pluralsight: CompTIA Network+ N10-006 Learning Path
+http://blog.pluralsight.com/learning-path-comptia-network-n10-006
+
+How Does HomeGroup Work?
+http://www.howtogeek.com/school/windows-network-sharing/lesson5/all/
+
+Windows Network Location Awareness (NLA)
+http://blogs.technet.com/b/networking/archive/2010/09/08/network-location-awareness-nla-and-how-it-relates-to-windows-firewall-profiles.aspx
+
+Public Proxy Servers
+http://howto.wired.com/wiki/Bypass_School_Internet_Filters
+
+Universal Naming Convention (UNC) Syntax
+http://compnetworking.about.com/od/windowsnetworking/g/unc-name.htm
+
+Administrative Shares
+https://www.wikiwand.com/en/Administrative_share
+
+Windows Remote Assistance
+http://www.howtogeek.com/howto/3276/invite-another-user-to-troubleshoot-your-windows-7-machine-with-remote-assistance/
+
+Windows Remote Desktop Serviceshttps://technet.microsoft.com/en-us/windowsserver/ee236407.aspx

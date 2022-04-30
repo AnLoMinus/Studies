@@ -1,0 +1,40 @@
+Module 4 Notes: Windows Administrative Utilities
+
+CompTIA A+ Home Page
+http://certification.comptia.org/getCertified/certifications/a.aspx
+
+Pluralsight: Group Policy Fundamentals
+https://www.pluralsight.com/courses/group-policy-fundamentals
+
+Pluralsight: Windows 10 Client Administration
+https://www.pluralsight.com/courses/windows-10-client-administration
+
+Administrative Tools
+http://www.howtogeek.com/193922/21-windows-administrative-tools-explained/
+
+Viewing the System Reserved Partition
+http://www.howtogeek.com/192772/what-is-the-system-reserved-partition-and-can-you-delete-it/
+
+Basic vs. Dynamic Disks
+http://windows.microsoft.com/en-us/windows-vista/what-are-basic-and-dynamic-disks
+
+Command.com vs. Cmd.exe
+http://www.computerhope.com/issues/ch000395.htm
+
+Sysinternals Process Explorer
+https://technet.microsoft.com/en-us/sysinternals/processexplorer.aspx
+
+Upgrade Assistant FAQ
+http://windows.microsoft.com/en-us/windows-8/upgrade-assistant-download-online-faq
+
+User State Migration Tool (USMT)
+https://technet.microsoft.com/en-us/library/hh824873.aspx
+
+Windows Easy Transfer
+http://windows.microsoft.com/en-us/windows/transfer-files-settings-from-another-computer#1TC=windows-7
+
+Just Enough Administration (JEA) Framework
+https://gallery.technet.microsoft.com/Just-Enough-Administration-6b5ad370
+
+Creating Task Pads with the MMC Framework
+http://social.technet.microsoft.com/wiki/contents/articles/2816.how-to-create-custom-mmc-and-add-taskpad.aspx
