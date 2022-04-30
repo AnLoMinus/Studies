@@ -2,7 +2,7 @@
 ### Studies - All the subjects I study and teach!
 
 - Academy 
-  -[Udemy](https://github.com/Anlominus/Studies/tree/main/Udemy)
+  - [Udemy](https://github.com/Anlominus/Studies/tree/main/Udemy)
 
 ---
 
