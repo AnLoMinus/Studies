@@ -86,3 +86,17 @@
   - [Architectural Design]()
   - [Interior Design]()
   - [Other Design]()
+
+---
+
+- [Music]():
+   - [Instruments]()
+   - [Music Production]()
+   - [Music Fundamentals]()
+   - [Vocal]()
+   - [Music Techniques]()
+   - [Music Software]()
+   - [Other Music]()
+
+---
+
