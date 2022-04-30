@@ -1,6 +1,11 @@
 # Studies
 Studies - All the subjects I study and teach!
 
+- Goals: 
+    - CompTIA A+ 
+    - CompTIA Network+
+    - CompTIA Security+ & Internship
+
 ### The five types of studies are discussed below.
 - Case Studies.
 - Correlational Studies.
