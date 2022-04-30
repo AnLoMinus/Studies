@@ -1,4 +1,4 @@
-# CERTIFICATION > CompTIA A+
+# [CompTIA A+](https://www.comptia.org/certifications/a)
 ### CompTIA A+ is the industry standard for establishing a career in IT.
 
 - NEW EXAM CODES 220-1101 & 220-1102
