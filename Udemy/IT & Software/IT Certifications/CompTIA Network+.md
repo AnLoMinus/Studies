@@ -1,4 +1,4 @@
-- Current Location: ~/IT & Software/IT Certifications/CompTIA Network+
+- Path: ~/IT & Software/IT Certifications/CompTIA Network+
 
 ## Udemy: [CompTIA A+ CompTIA Network+ CompTIA Security+ IT Fundamental](https://www.udemy.com/course/computer-network-course/)
 - ALL in ONE : CompTIA A+, CompTIA Network+. CompTIA Security+. IT Fundamental. Complete Computer Network/ IT Fundamentals
