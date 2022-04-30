@@ -1,6 +1,18 @@
 # [CompTIA A+](https://www.comptia.org/certifications/a)
 ### CompTIA A+ is the industry standard for establishing a career in IT.
 
+# Jobs that use A+
+- Help Desk Tech
+- Desktop Support Specialist
+- Field Service Technician
+- Help Desk Technician
+- Associate Network Engineer
+- System Support Technician
+- Junior Systems Administrator
+ 
+ 
+ ---
+
 - NEW EXAM CODES 220-1101 & 220-1102
 - PREVIOUS VERSION EXAM CODES 220-1001 & 220-1002
 
