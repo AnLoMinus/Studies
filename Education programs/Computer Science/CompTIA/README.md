@@ -1,1 +1,44 @@
-# [CompTIA Elite+](https://t.me/+0yNoXfn3KK0xOWU0)
+# [CompTIA Elite+](https://t.me/+0yNoXfn3KK0xOWU0), 42 Books, Size: 628Mb
+  - 20daychallenge_katiecraig.pdf
+  - 101 Labs - CompTIA Linux+.pdf
+  - 02719-get-into-it-brochure-us-update-online.pdf
+  - 02803-capp-academy-student-a-net-poster-online.pdf
+  - 03391-security-in-comptia-certifications-update-online.pdf
+  - 03987-comptia-linux-product-guide-online.pdf
+  - 04271_itf_exam_objectives_r2.pdf
+  - 08314-it-certification-roadmap-nov2020-update-8-5x11-online.pdf
+  - 08656-b2b-server-cert-guide-online.pdf
+  - 08954-casp-government-flyer-online.pdf
+  - a-core-series-combined-content-guide.pdf
+  - aplus-certification-guide---no-price-online.pdf
+  - CASP+_CompTIA_Advanced_Security_Practitioner_Practice_Tests_Exam.pdf
+  - certification_dod_8570_flier.pdf
+  - CompTIA Network+ Guide to Networks (MindTap Course List).pdf
+  - CompTIA Network+ Practice Tests Exam N10-008, 2nd Edition.pdf
+  - CompTIA Pentest+ Certification For Dummies, 2nd Edition.pdf
+  - CompTIA Pentest+ Certification For Dummies.pdf
+  - CompTIA PenTest+ PT0-002 Cert Guide (Certification Guide).epub
+  - CompTIA PenTest+ Study Guide Exam PT0-002.pdf
+  - CompTIA Security+ Study Guide Exam SY0-601.pdf
+  - comptia_battlecards_novideo_april2022.pdf
+  - CompTIA_CASP+_CAS_004_Certification_Guide_Develop_CASP+_skills_and.pdf
+  - CompTIA_Cloud+_Certification_All_in_One_Exam_Guide_Exam_CV0_003.epub
+  - CompTIA_Network+_Certification_All_in_One_Exam_Guide,_Eighth_Edition.epub
+  - CompTIA_PenTest+_Certification_All_in_One_Exam_Guide,_Second_Edition.epub
+  - CompTIA_Security+_Certification_Practice_Exams,_Fourth_Edition_Exam.epub
+  - CompTIA_Security+_Get_Certified_Get_Ahead_SY0_601_Study_Guide.epub
+  - CompTIA_Server+_Certification_All_in_One_Exam_Guide,_Second_Edition.epub
+  - comptia-a-220-1001-exam-objectives.pdf
+  - comptia-a-220-1002-exam-objectives.pdf
+  - comptia-a-vs-itf-certification-infographic.pdf
+  - comptia-network-n10-008-exam-objectives-(2-0).pdf
+  - comptia-product-team-update.pdf
+  - comptia-server-sk0-005-exam-objectives.pdf
+  - comptiasecurityplus_sy0-601_certificationguide.pdf
+  - itf-certification-guide-fc0-u61.pdf
+  - itf-ebook-online.pdf
+  - Mike_Meyers_CompTIA_Network+_Guide_to_Managing_and_Troubleshooting.epub
+  - multicert-flyer-educators-online.pdf
+  - network-n10-007-exam-objectives.pdf
+  - Principles_of_Computer_Security_CompTIA_Security+_and_Beyond,_Sixth.pdf
+
