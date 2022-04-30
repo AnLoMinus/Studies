@@ -158,7 +158,7 @@
   
 ---
   
-  - [Lifestyle]():
+- [Lifestyle]():
   - [Arts & Crafts]()
   - [Beauty & Makeup]()
   - [Esoteric Practices]()
