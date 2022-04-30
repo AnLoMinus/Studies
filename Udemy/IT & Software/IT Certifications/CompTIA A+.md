@@ -4,6 +4,25 @@
 
 </div>
 
+<div class="versionblock">
+<div class="versionblockheader">
+<h3>A+ 1000-Series: <br>
+What’s in this version</h3>
+</div>
+<div class="versionblockbody">
+<p>The new CompTIA A+ Core Series includes expanded content on these growing parts of the IT support role:</p>
+<ul class="bulletlist">
+    <li>A general expansion of baseline security topics core to the IT support role, including physical versus logical security concepts and measures, malware and more 
+
+</li><li>A dramatically different approach in defining competency in operational procedures including basic disaster prevention and recovery and scripting basics 
+
+</li><li>A greater dependency on networking and device connectivity 
+
+
+</li></ul>
+</div>
+</div>
+
 # [CompTIA A+](https://www.comptia.org/certifications/a) ![image](https://user-images.githubusercontent.com/51442719/166117243-11d04254-5fb4-47b9-bd97-51b845067750.png)
 ### CompTIA A+ is the industry standard for establishing a career in IT.
 
