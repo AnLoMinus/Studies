@@ -1,11 +1,5 @@
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/51442719/166117208-51403717-f697-4558-ba3e-7500774bb7ae.png)
-
-</div>
-
-<div class="versionblock">
-<div class="versionblockheader">
+<div>
+<div>
 <h3>A+ 1000-Series: <br>
 What’s in this version</h3>
 </div>
