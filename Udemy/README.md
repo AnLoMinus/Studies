@@ -116,3 +116,59 @@
   - [Product Marketing]()
   - [Other Marketing]()
   
+  ---
+  
+  - [Teaching & Academics]():
+  - [Engineering]()
+  - [Humanities]()
+  - [Math]()
+  - [Science]()
+  - [Online Education]()
+  - [Social Science]()
+  - [Language Learning]()
+  - [Teacher Training]()
+  - [Test Prep]()
+  - [Other Teaching & Academics]()
+
+---
+
+- [Health & Fitness]():
+  - [Fitness]()
+  - [General Health]()
+  - [Sports]()
+  - [Nutrition & Diet]()
+  - [Yoga]()
+  - [Mental Health]()
+  - [Martial Arts & Self Defense]()
+  - [Safety & First Aid]()
+  - [Dance]()
+  - [Meditation]()
+  - [Other Health & Fitness]()
+
+---
+
+- [Photography & Video]():
+  - [Digital Photography]()
+  - [Photography]()
+  - [Portrait Photography]()
+  - [Photography Tools]()
+  - [Commercial Photography]()
+  - [Video Design]()
+  - [Other Photography & Video]()
+  
+---
+  
+  - [Lifestyle]():
+  - [Arts & Crafts]()
+  - [Beauty & Makeup]()
+  - [Esoteric Practices]()
+  - [Food & Beverage]()
+  - [Gaming]()
+  - [Home Improvement & Gardening]()
+  - [Pet Care & Training]()
+  - [Travel]()
+  - [Other Lifestyle]()
+  
+---
+  
+  
