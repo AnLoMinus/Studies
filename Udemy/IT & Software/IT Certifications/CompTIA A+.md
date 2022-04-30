@@ -22,3 +22,32 @@
 - Changing core technologies from cloud virtualization and IoT device security to data management and scripting
 - Multiple operating systems now encountered by technicians on a regular basis, including the major systems, their use cases, and how to keep them running properly
 - Reflects the changing nature of the job role, where many tasks are sent to specialized providers as certified personnel need to assess whether it’s best to fix something on site, or to save time and money by sending proprietary technologies directly to vendors
+
+# 9 skills that you master and validate with CompTIA A+
+
+- HARDWARE
+  - Identifying, using, and connecting hardware components and devices, including the broad knowledge about different devices that is now necessary to support the remote workforce
+
+- OPERATING SYSTEMS
+  - Install and support Windows OS including command line & client support. System configuration imaging and troubleshooting for Mac OS, Chrome OS, Android and Linux OS.
+
+- SOFTWARE TROUBLESHOOTING
+  - Troubleshoot PC and mobile device issues including common OS, malware and security issues.
+
+- NETWORKING
+  - Explain types of networks and connections including TCP/IP, WIFI and SOHO
+
+- TROUBLESHOOTING
+  - Troubleshoot real-world device and network issues quickly and efficiently
+
+- SECURITY
+  - Identify and protect against security vulnerabilities for devices and their network connections
+
+- MOBILE DEVICES
+  - Install & configure laptops and other mobile devices and support applications to ensure connectivity for end- users
+
+- VIRTUALIZATION & CLOUD COMPUTING
+  - Compare & contrast cloud computing concepts & set up client-side virtualization
+
+- OPERATIONAL PROCEDURES
+  - Follow best practices for safety, environmental impacts, and communication and professionalism 
