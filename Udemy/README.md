@@ -1,9 +1,9 @@
 # Udemy Categories Learning
 
 # [Categories]():
-  - [Development]()
-  - [Business]()
-  - [Finance & Accounting]()
+  - [Development](https://github.com/Anlominus/Studies/tree/main/Udemy#development)
+  - [Business](https://github.com/Anlominus/Studies/tree/main/Udemy#Business)
+  - [Finance & Accounting](https://github.com/Anlominus/Studies/tree/main/Udemy#finance--accounting)
   - [IT & Software]()
   - [Office Productivity]()
   - [Personal Development]()
