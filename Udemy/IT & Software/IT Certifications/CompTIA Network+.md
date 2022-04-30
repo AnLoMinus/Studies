@@ -24,3 +24,22 @@
 - CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ = $92,080/yr.
 - CompTIA A+ Cert  with CompTIA Network+, CompTIA Security+ & Project= $97,310/yr.
 - CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ & Internship = $105,150/yr.
+
+---
+
+### ROLES
+- Network Engineer: $51k - $104k
+- Administrator: $43k - $82k
+- Information Technology (IT) Director: $62k - $145k
+- Information Technology Specialist: $39k - $89k
+
+---
+
+## Description
+### Get Certificate and Land a JOB with Comptia A+, Comptia Network+ & Security+
+
+### This is a program like no other!
+- Get Certified in 3 Major Certifications in just 1 Course!
+  - Comptia A+
+  - Comptia Network+
+  - Comtia Security +
