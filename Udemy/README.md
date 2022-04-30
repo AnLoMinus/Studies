@@ -1,6 +1,6 @@
 # Udemy Categories Learning
 
-- [Categories]():
+# [Categories]():
   - [Development]()
   - [Business]()
   - [Finance & Accounting]()
@@ -17,7 +17,7 @@
   
 ---
 
-- [Development]():
+# [Development]():
   - [Web Development]()
   - [Data Science]()
   - [Mobile Development]()
@@ -31,7 +31,7 @@
 
 ---
 
-- [Business]():
+# [Business]():
   - [Entrepreneurship]()
   - [Communication]()
   - [Management]()
@@ -47,7 +47,7 @@
 
 ---
 
-- [Finance & Accounting]():
+# [Finance & Accounting]():
   - [Accounting & Bookkeeping]()
   - [Compliance]()
   - [Cryptocurrency & Blockchain]()
@@ -61,7 +61,7 @@
 
 ---
 
-- [IT & Software](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software): 
+# [IT & Software](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software): 
   - [IT Certifications]()
   - [Network & Security]()
   - [Hardware]()
@@ -70,7 +70,7 @@
 
 ---
 
-- [Office Productivity]():
+# [Office Productivity]():
   - [Microsoft]()
   - [Apple]()
   - [Google]()
@@ -80,7 +80,7 @@
   
 ---
 
-- [Personal Development]():
+# [Personal Development]():
   - [Personal Transformation]()
   - [Personal Productivity]()
   - [Leadership]()
@@ -100,7 +100,7 @@
 
 ---
 
-- [Design]():  
+# [Design]():  
   - [Web Design]()
   - [Graphic Design & Illustration]()
   - [Design Tools]()
@@ -114,7 +114,7 @@
 
 ---
 
-- [Marketing]():
+# [Marketing]():
   - [Digital Marketing]()
   - [Search Engine Optimization]()
   - [Social Media Marketing]()
@@ -132,7 +132,7 @@
   
 ---
   
-- [Lifestyle]():
+# [Lifestyle]():
   - [Arts & Crafts]()
   - [Beauty & Makeup]()
   - [Esoteric Practices]()
@@ -145,7 +145,7 @@
   
 ---
 
-- [Photography & Video]():
+# [Photography & Video]():
   - [Digital Photography]()
   - [Photography]()
   - [Portrait Photography]()
@@ -156,7 +156,7 @@
   
 ---
 
-- [Health & Fitness]():
+# [Health & Fitness]():
   - [Fitness]()
   - [General Health]()
   - [Sports]()
@@ -171,7 +171,7 @@
 
 ---
 
-- [Music]():
+# [Music]():
    - [Instruments]()
    - [Music Production]()
    - [Music Fundamentals]()
@@ -182,7 +182,7 @@
 
 ---
   
-- [Teaching & Academics]():
+# [Teaching & Academics]():
   - [Engineering]()
   - [Humanities]()
   - [Math]()
