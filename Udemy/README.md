@@ -1,14 +1,20 @@
 # Udemy Categories Learning
 
----
-
-- [IT & Software](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software): 
-  - [IT Certifications]()
-  - [Network & Security]()
-  - [Hardware]()
-  - [Operating Systems & Servers]()
-  - [Other IT & Software]()
-
+- [Categories]():
+  - [Development]()
+  - [Business]()
+  - [Finance & Accounting]()
+  - [IT & Software]()
+  - [Office Productivity]()
+  - [Personal Development]()
+  - [Design]()
+  - [Marketing]()
+  - [Lifestyle]()
+  - [Photography & Video]()
+  - [Health & Fitness]()
+  - [Music]()
+  - [Teaching & Academics]()
+  
 ---
 
 - [Development]():
@@ -22,7 +28,7 @@
   - [Software Engineering]()
   - [Software Development]()
   - [Tools No-Code Development]()
- 
+
 ---
 
 - [Business]():
@@ -53,6 +59,25 @@
   - [Management Tools Taxes]()
   - [Other Finance & Accounting]()
 
+---
+
+- [IT & Software](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software): 
+  - [IT Certifications]()
+  - [Network & Security]()
+  - [Hardware]()
+  - [Operating Systems & Servers]()
+  - [Other IT & Software]()
+
+---
+
+- [Office Productivity]():
+  - [Microsoft]()
+  - [Apple]()
+  - [Google]()
+  - [SAP]()
+  - [Oracle]()
+  - [Other Office Productivity]()
+  
 ---
 
 - [Personal Development]():
@@ -89,17 +114,6 @@
 
 ---
 
-- [Music]():
-   - [Instruments]()
-   - [Music Production]()
-   - [Music Fundamentals]()
-   - [Vocal]()
-   - [Music Techniques]()
-   - [Music Software]()
-   - [Other Music]()
-
----
-
 - [Marketing]():
   - [Digital Marketing]()
   - [Search Engine Optimization]()
@@ -116,20 +130,30 @@
   - [Product Marketing]()
   - [Other Marketing]()
   
-  ---
+---
   
-  - [Teaching & Academics]():
-  - [Engineering]()
-  - [Humanities]()
-  - [Math]()
-  - [Science]()
-  - [Online Education]()
-  - [Social Science]()
-  - [Language Learning]()
-  - [Teacher Training]()
-  - [Test Prep]()
-  - [Other Teaching & Academics]()
+- [Lifestyle]():
+  - [Arts & Crafts]()
+  - [Beauty & Makeup]()
+  - [Esoteric Practices]()
+  - [Food & Beverage]()
+  - [Gaming]()
+  - [Home Improvement & Gardening]()
+  - [Pet Care & Training]()
+  - [Travel]()
+  - [Other Lifestyle]()
+  
+---
 
+- [Photography & Video]():
+  - [Digital Photography]()
+  - [Photography]()
+  - [Portrait Photography]()
+  - [Photography Tools]()
+  - [Commercial Photography]()
+  - [Video Design]()
+  - [Other Photography & Video]()
+  
 ---
 
 - [Health & Fitness]():
@@ -147,28 +171,29 @@
 
 ---
 
-- [Photography & Video]():
-  - [Digital Photography]()
-  - [Photography]()
-  - [Portrait Photography]()
-  - [Photography Tools]()
-  - [Commercial Photography]()
-  - [Video Design]()
-  - [Other Photography & Video]()
-  
+- [Music]():
+   - [Instruments]()
+   - [Music Production]()
+   - [Music Fundamentals]()
+   - [Vocal]()
+   - [Music Techniques]()
+   - [Music Software]()
+   - [Other Music]()
+
 ---
   
-- [Lifestyle]():
-  - [Arts & Crafts]()
-  - [Beauty & Makeup]()
-  - [Esoteric Practices]()
-  - [Food & Beverage]()
-  - [Gaming]()
-  - [Home Improvement & Gardening]()
-  - [Pet Care & Training]()
-  - [Travel]()
-  - [Other Lifestyle]()
-  
+- [Teaching & Academics]():
+  - [Engineering]()
+  - [Humanities]()
+  - [Math]()
+  - [Science]()
+  - [Online Education]()
+  - [Social Science]()
+  - [Language Learning]()
+  - [Teacher Training]()
+  - [Test Prep]()
+  - [Other Teaching & Academics]()
+
 ---
   
   
