@@ -63,7 +63,7 @@
 
 # [IT & Software](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software): 
   - [IT Certifications](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software/IT%20Certifications)
-  - [Network & Security]()
+  - [Network & Security](https://github.com/Anlominus/Studies/tree/main/Udemy/IT%20%26%20Software/Network%20%26%20Security)
   - [Hardware]()
   - [Operating Systems & Servers]()
   - [Other IT & Software]()
