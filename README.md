@@ -1,3 +1,9 @@
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/51442719/166158602-eeffde5b-7138-4813-b307-0f6f0a6f44d0.png)
+
+</div>
+  
 # Studies
 ### Studies - All the subjects I study and teach!
 
