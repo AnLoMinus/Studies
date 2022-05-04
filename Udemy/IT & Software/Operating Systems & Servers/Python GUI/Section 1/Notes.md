@@ -6,3 +6,4 @@
 ### Installing Python Library Requirements
 - 1. `pip3 install PySimpleGUI`
 - 2. `pip3 install PySimpleGUIqt`
+- 3. `pip3 install PyQt5`
