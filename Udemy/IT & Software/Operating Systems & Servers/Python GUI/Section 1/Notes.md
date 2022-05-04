@@ -1,0 +1,5 @@
+### Introduction notes
+- In this course we'll use the program PyCharm that you can download for free. 
+- If you wish to use your own Python development environment, you can.
+- You don't need any perquisites, besides basic knowledge of Python programming.
+
