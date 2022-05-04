@@ -1,5 +1,7 @@
 # [Master the Art Of Self-Confidence – Unshakable Confidence](https://www.udemy.com/course/power-of-confidence-full-course2022/)
-## Handle Fear of Rejection, Learn Powerful Body Language, Build Strong Confident Personality
+
+## About this course
+- Handle Fear of Rejection, Learn Powerful Body Language, Build Strong Confident Personality
 
 ### What you'll learn
 - Learn Powerful Strategies for Building Self Confidence
