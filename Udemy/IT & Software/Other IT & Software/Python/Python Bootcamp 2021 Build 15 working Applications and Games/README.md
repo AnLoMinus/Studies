@@ -1,5 +1,5 @@
 # Python Bootcamp 2021 Build 15 working Applications and Games
-### Learn complete python with basics, data science, data visualisation, desktop graphical applications and python for web.
+#### Learn complete python with basics, data science, data visualisation, desktop graphical applications and python for web.
 
 # What you'll learn
 - Complete Python.
