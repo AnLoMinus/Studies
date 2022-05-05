@@ -1,4 +1,4 @@
-# [Python Desktop Apps with Tkinter](Development/Programming Languages/Python/Python Desktop Apps with Tkinter)
+# [Python Desktop Apps with Tkinter](https://www.udemy.com/course/python-gui-tkinter/)
 ## Make Graphical Apps with Python 3 and Tkinter
 
 ### What you'll learn
