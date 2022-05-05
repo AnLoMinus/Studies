@@ -12,6 +12,7 @@ Category: IT & Software > Operating Systems & Servers > Python GUI
 
 ### Requirements
 - Basic Python skills
+- [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 
 ### Description
 - This course teaches you how you can quickly create desktop apps with Python. 
@@ -20,3 +21,5 @@ Category: IT & Software > Operating Systems & Servers > Python GUI
 
 ### Who this course is for:
 - Beginner Python developers who want to create a Apps
+
+
