@@ -21,3 +21,16 @@
 - Developers who wants to break into cybersecurity and penetration testing.
 - Cybersecurity professionals with basic Python skills who want to get their work done more efficiently.
 - Anyone with basic coding skills who wants to learn Python for penetration testing.
+
+
+### 1 section • 11 lectures • 1h 56m total length
+- Building a Basic Port Scanner using NMAP in Python
+- Grabbing Screenshots with Python
+- The Socket Module for Network Communication - A TCP Server-Client
+- The Scapy Module for Network Traffic Sniffing and Manipulation
+- Attacking Web Forms with requests and BeautifulSoup in Python
+- Discovering Subdomains with Python
+- Cracking Hashes with Python and Hashlib
+- Spoofing your MAC Address with Python
+- Finding Hidden Wireless Networks with Python
+- Additional Resources and Personal Message
