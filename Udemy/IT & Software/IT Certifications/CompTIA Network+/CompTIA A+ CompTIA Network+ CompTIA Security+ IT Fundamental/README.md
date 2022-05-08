@@ -39,7 +39,7 @@ YESSS, ALL IN ONE COURSE!!
 - CompTIA A+ Cert with no other certifications = $47,500/yr.
 - CompTIA A+ Cert with CompTIA Network+= $84,250/yr.
 - CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ = $92,080/yr.
-- CompTIA A+ Cert  with CompTIA Network+, CompTIA Security+ & Project= $97,310/yr.
+- CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ & Project= $97,310/yr.
 - CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ & Internship = $105,150/yr.
 
 - ROLES
