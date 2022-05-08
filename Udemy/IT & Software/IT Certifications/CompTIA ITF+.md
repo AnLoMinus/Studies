@@ -1,6 +1,32 @@
 # [CompTIA IT Fundamentals](https://www.comptia.org/certifications/it-fundamentals)
 - EXAM CODE FCO-U61
 
+# What Skills Will You Learn?
+
+- **HARDWARE**
+  - IT CONCEPTS & TERMINOLOGY
+  - Comprehend notational systems, illustrate the basics of computing and explain the value of data and troubleshooting
+
+- **WINDOWS OPERATING SYSTEMS**
+  - INFRASTRUCTURE
+  - Know how to set up and install common peripheral devices to a laptop/PC or secure a basic wireless network
+
+- **SOFTWARE TROUBLESHOOTING**
+  - APPLICATIONS & SOFTWARE
+  - Manage applications software, understand the various components of an operating system and explain the purpose of methods of application architecture
+
+- **NETWORKING**
+  - SOFTWARE DEVELOPMENT
+  - Comprehend programming language categories, interpret logic, and understand the purpose of programming concepts
+
+- **HARDWARE & NETWORK TROUBLESHOOTING**
+  - DATABASE FUNDAMENTALS
+  - Able to explain database concepts, structures, and purpose, as well as understands methods used to interface
+
+- **SECURITY**
+  - SECURITY
+  - Understand confidentiality, integrity, and availability concerns of secure devices and best practice methods
+
 
 ## CompTIA IT Fundamentals (ITF+) is an introduction to basic IT knowledge and skills.
 
