@@ -16,7 +16,7 @@
 - Case Studies.
 - Correlational Studies.
 - Longitudinal Studies.
-- Experimental Studies.
+- **Experimental Studies**.
 - Clinical Trial Studies.
 
 ---
