@@ -47,3 +47,6 @@ YESSS, ALL IN ONE COURSE!!
   - Administrator: $43k - $82k
   - Information Technology (IT) Director: $62k - $145k
   - Information Technology Specialist: $39k - $89k
+
+## Who this course is for:
+- Anyone who wants to learn about Computer Networking
