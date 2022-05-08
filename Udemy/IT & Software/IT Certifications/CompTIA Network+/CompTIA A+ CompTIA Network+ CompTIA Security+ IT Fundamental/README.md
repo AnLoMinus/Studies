@@ -27,3 +27,9 @@
   - 3. Comtia Security +
 
 YESSS, ALL IN ONE COURSE!!
+
+
+## WHY SHOULD I TAKE THIS COURSE?
+- Technology is ranked as the #1 source of U.S. jobs. 
+- Are you looking to kickstart your career, improve your existing IT skills, or increase your chances of getting that IT job? 
+- Did you know 96% of HR managers use IT certifications as screening or hiring criteria during recruitment?*
