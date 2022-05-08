@@ -33,3 +33,17 @@ YESSS, ALL IN ONE COURSE!!
 - Technology is ranked as the #1 source of U.S. jobs. 
 - Are you looking to kickstart your career, improve your existing IT skills, or increase your chances of getting that IT job? 
 - Did you know 96% of HR managers use IT certifications as screening or hiring criteria during recruitment?*
+
+
+## More Certifications = More $$
+- CompTIA A+ Cert with no other certifications = $47,500/yr.
+- CompTIA A+ Cert with CompTIA Network+= $84,250/yr.
+- CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ = $92,080/yr.
+- CompTIA A+ Cert  with CompTIA Network+, CompTIA Security+ & Project= $97,310/yr.
+- CompTIA A+ Cert with CompTIA Network+, CompTIA Security+ & Internship = $105,150/yr.
+
+- ROLES
+  - Network Engineer: $51k - $104k
+  - Administrator: $43k - $82k
+  - Information Technology (IT) Director: $62k - $145k
+  - Information Technology Specialist: $39k - $89k
