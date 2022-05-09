@@ -3,17 +3,11 @@
 
 ### Description
 Learn PyGame by developing fun games from scratch.  
-
-This course is for everyone who has desire to learn Python and PyGame.  
-
+veryone who has desire to learn Python and PyGame.  
 The game complexity increases with every section and you will be able to rise your knowledge throughout the course.  
-
 You will develop amazing games and you will see how PyGame works moving things on screen and objects interaction.  
-
 You will also create and import pictures used in the games and get familiar with creating randomly movable enemies, animating the game characters and playing music and sounds while playing the game.  
-
 You will use Python and Eclipse to create games with progressively increased difficulty.  
-
 By the on of this course you will be able to fully design operational game including creation of objects and positioning of custom pictures and other components on the gameplay.  
 
 - You will get 24/7 support on the Q&A section from our team. Go on to build several games including:
@@ -23,7 +17,6 @@ By the on of this course you will be able to fully design operational game inclu
 
 You will have access to a course that has over 10 hours of HD video content.  
 Be part of our community of over 60k students worldwide and make new connections in the industry.  
-
 The course is project oriented as this is the best way to learn Python and PyGame.  
 Instead of just learning the coding concepts, you will be applying them instantly to real world games.  
 All of the source code will be included in the end of each section, so you will never struggle to complete a lecture.  
@@ -34,16 +27,8 @@ All of the source code will be included in the end of each section, so you will 
   - After building the game you will be asked to modify the control parameters.
 
 Join now to get a lifetime access to this course, which includes a tone of videos and downloadable materials.  
-
 You will learn Python Object Oriented Programming concepts and be able to apply them for your own projects.  
-
 Once you complete the course you will become an advanced game developer and feel comfortable to create games from scratch.  
-
-
-
-
-
-
 
 ### What you'll learn
 - Learn the Python basics and apply them to real world projects.
