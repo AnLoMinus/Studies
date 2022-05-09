@@ -71,3 +71,19 @@ If you have more things to do than you have time and frequently get overwhelmed 
 
 - Now that you know your hourly rate, just do a rough math of how much it costs you wasting 20 30, 60 Mins a day
   - 1 Hour of Wasted Time a day = 32$*365 = 11680$/Year
+
+# 6 - Handling Procrastination
+- Clearly define goals.
+  - Spesific
+  - Measurable
+  - Attainable
+  - Realistic
+  - Time oriented
+- Create TO-DO List
+- Allocate enough time for complex work
+- Break work into smaller tasks
+- Manage your Environment 
+- Use deadlines
+- Forgive Yourself
+
+
