@@ -3,7 +3,17 @@
 ![image](https://user-images.githubusercontent.com/51442719/166158602-eeffde5b-7138-4813-b307-0f6f0a6f44d0.png)
 
 </div>
-  
+
+# Smart Goals:
+  - 1. Specific
+  - 2. Measurable
+  - 3. Actionable
+  - 4. Relevant
+  - 5. Time Bound
+
+
+---
+
 # Studies
 ### Studies - All the subjects I study and teach!
 
