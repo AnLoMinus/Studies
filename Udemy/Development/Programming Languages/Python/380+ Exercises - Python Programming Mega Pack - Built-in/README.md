@@ -1,4 +1,4 @@
-# [380+ Exercises - Python Programming Mega Pack - Built-in]()
+# [380+ Exercises - Python Programming Mega Pack - Built-in](https://www.udemy.com/course/python-programming-modules-packages/)
 ## Mega Pack - Improve your Python programming skills and solve 380 exercises with Python built-in modules and packages!
 
 ## Who this course is for:
