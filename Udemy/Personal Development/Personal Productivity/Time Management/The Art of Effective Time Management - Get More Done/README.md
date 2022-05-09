@@ -87,11 +87,22 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Forgive Yourself
 
 # 7 - Setting Priorities 
-- 
+- Priority A - Must do Critical Items (something you must do or face serious consequences)
+- Priority B - Should do - (of mild consequence)
+- Priority C - Nice to do 
+- Priority D - Something you can delegate
+- Priority E - Something you can eliminate
 
 # 8 - Effective Meetings
+- Confirm if Necessary
+- Have a defined Agenda and Timeline
+- Be consistent wth the Purpose
+- Start and End Time
+- Keep MOM - Minutes of Meeting
+- Summarize activities and Review reports and Assignments
 
 # 9 - Be Smart with Smartphones
+- 
 
 # 10 - Avoid Searching
 
