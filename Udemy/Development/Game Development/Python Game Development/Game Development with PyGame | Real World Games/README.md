@@ -3,11 +3,18 @@
 
 ### Description
 Learn PyGame by developing fun games from scratch.  
+
 This course is for everyone who has desire to learn Python and PyGame.  
+
 The game complexity increases with every section and you will be able to rise your knowledge throughout the course.  
+
 You will develop amazing games and you will see how PyGame works moving things on screen and objects interaction.  
+
 You will also create and import pictures used in the games and get familiar with creating randomly movable enemies, animating the game characters and playing music and sounds while playing the game.  
 
+You will use Python and Eclipse to create games with progressively increased difficulty.  
+
+By the on of this course you will be able to fully design operational game including creation of objects and positioning of custom pictures and other components on the gameplay.  
 
 ### What you'll learn
 - Learn the Python basics and apply them to real world projects.
