@@ -61,3 +61,8 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Social Media
 - Searching
 - Commuting or Unnecessary Travels 
+
+# 5 - Understand Cost of Time
+- `Understand your true value by calculating your cost per year =(salary + taxes + Office Expenses + Profit you generate)`
+  - Let’s Consider you make $60000 a Year working 40 hours a week.
+  - Considering 4 weeks of leaves a year you work for `48 Weeks = 48*40 = 1920 Hours`
