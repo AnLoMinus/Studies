@@ -69,3 +69,5 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Calculate your hourly rate = cost per year/work hrs per year  
   - 60000$/1920 = 32$/Hour 
 
+- Now that you know your hourly rate, just do a rough math of how much it costs you wasting 20 30, 60 Mins a day
+  - 1 Hour of Wasted Time a day = 32$*365 = 11680$/Year
