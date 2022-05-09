@@ -86,4 +86,20 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Use deadlines
 - Forgive Yourself
 
+# 7 - Setting Priorities 
+- 
+
+# 8 - Effective Meetings
+
+# 9 - Be Smart with Smartphones
+
+# 10 - Avoid Searching
+
+# 11 - Control Visitors
+
+# 12 - Art of Delegation
+
+# 13 - Role of Health in Time Management
+
+# 14 - 4D Principle
 
