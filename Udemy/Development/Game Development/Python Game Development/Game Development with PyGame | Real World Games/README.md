@@ -3,8 +3,8 @@
 
 ### Description
 Learn PyGame by developing fun games from scratch.  
-This course is for everyone who has desire to learn Python and PyGame.
-The game complexity increases with every section and you will be able to rise your knowledge throughout the course.
+This course is for everyone who has desire to learn Python and PyGame.  
+The game complexity increases with every section and you will be able to rise your knowledge throughout the course.  
 
 ### What you'll learn
 - Learn the Python basics and apply them to real world projects.
