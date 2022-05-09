@@ -102,7 +102,7 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Summarize activities and Review reports and Assignments
 
 # 9 - Be Smart with Smartphones
-- Avoid a lot od personal calls
+- Avoid a lot of personal calls
 - Allocate time for making calls
 - Plan what you are going to say
 - Keep conversation short
