@@ -9,7 +9,7 @@ class Player:
     y = 0
     d = 0
     positions = []
-    length = 4
+    length = 1
 
 # Apple class
 class Apple:
@@ -118,9 +118,9 @@ class Game:
             if self.isCollision(self.player.x,self.player.y,self.apple.x,self.apple.y, 44):
                 self.apple.x = randint(0,self.game_width) * self.grid_size
                 self.apple.y = randint(0,self.game_height) * self.grid_size
+                player_lenght=self.player.length
+                print(player_lenght)
                 self.player.length += 1
-                collides=int("1")
-                print(collides)
 
 
             # Detect lion collection with itself
