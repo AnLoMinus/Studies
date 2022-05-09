@@ -30,6 +30,27 @@ If you have more things to do than you have time and frequently get overwhelmed 
 
 
 
+
+# 2 - Why Time Management
+- For Improved Performance 
+- Improved Productivity
+- More Free Time
+- Less ReWork
+- Improves Your Reputation 
+- Helps you Focus on your Priorities 
+- Stress Reduction 
+- To hvce a Good life Balance
+
+# 3 - Time Management Mistakes 
+- Being Perfectionist
+- Getting distracted along the way
+- Cannot say NO
+- Overpacked Schedules
+- Not having a TO-DO List
+- Procrastination
+- Working without Breaks
+- Denying you have a time management problem
+
 # 4 - The TOP Time Wasters
 - Procrastination 
 - Mobile Phone
