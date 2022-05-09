@@ -31,3 +31,12 @@ If you have more things to do than you have time and frequently get overwhelmed 
 
 
 # 4 - The TOP Time Wasters
+- Procrastination 
+- Mobile Phone
+- Unclear Goals
+- Unexpected Visitors 
+- Poorly Managed Meetings 
+- Improper Delegation 
+- Social Media
+- Searching
+- Commuting or Unnecessary Travels 
