@@ -16,6 +16,11 @@ You will use Python and Eclipse to create games with progressively increased dif
 
 By the on of this course you will be able to fully design operational game including creation of objects and positioning of custom pictures and other components on the gameplay.  
 
+- You will get 24/7 support on the Q&A section from our team. Go on to build several games including:
+  - Brick Breaker: Design a paddle and break the brick map.
+  - Snake Feeder: Learn how to display images to feed the snake and extend its length.
+  - Pacman: The game talks for itself, one of the most played games worldwide. Now you will be able to create it yourself.
+
 ### What you'll learn
 - Learn the Python basics and apply them to real world projects.
 - Master the PyGame 2D game development.
