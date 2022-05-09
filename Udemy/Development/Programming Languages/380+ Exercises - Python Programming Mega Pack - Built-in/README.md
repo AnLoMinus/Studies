@@ -1,6 +1,11 @@
 # [380+ Exercises - Python Programming Mega Pack - Built-in]()
 ## Mega Pack - Improve your Python programming skills and solve 380 exercises with Python built-in modules and packages!
 
+## Who this course is for:
+- everyone who wants to learn by doing
+- everyone who wants to improve their Python programming skills
+- everyone who wants to prepare for an interview
+
 ## What you'll learn
 - solve over 380 exercises in Python
 - deal with real programming problems
