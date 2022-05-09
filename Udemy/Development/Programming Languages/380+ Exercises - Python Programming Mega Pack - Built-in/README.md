@@ -39,3 +39,24 @@
 - list comprehension
 - dict comprehension
 - built-in modules
+
+## Knowing the built-in modules and packages significantly improves our development skills. We will use, for example:
+- datetime
+- os
+- sys
+- copy
+- string
+- re
+- collections
+- pprint
+- pathlib
+- random
+- math
+- statistics
+- numbers
+- decimal
+- fractions
+- itertools
+- functools
+- csv
+- json
