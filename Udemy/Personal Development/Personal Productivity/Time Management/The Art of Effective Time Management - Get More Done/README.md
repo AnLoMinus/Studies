@@ -136,6 +136,12 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Use your office for business activities and let others know this 
 
 # 12 - Art of Delegation
+- Know your peoples skills and strengths
+- Be Clear in your Instructions
+- Build Competence and Empower people
+- Delegate and get out of the way
+- Keep an Eye (Not to spy but to support if needed)
+- Set deadlines
 
 # 13 - Role of Health in Time Management
 
