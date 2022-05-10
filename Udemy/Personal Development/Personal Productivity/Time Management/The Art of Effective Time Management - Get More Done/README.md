@@ -110,8 +110,24 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Keep a directory of frequently called numbers - Office Extensions
 
 # 10 - Avoid Searching
-
+- Unclutter your Desk
+- Sort Items into Unnecessary and Necessary
+- Dispose Unnecessary items
+- Keep Necessary Items Handy or within Reach
+- Keep frequently needed files in designated folder - Data Management
+- Filing Important Documents
+- Sort Your Mails - A-(Action) I-(Information) D-(Deferred)
+- Avoid Searching - Declutter Your Mind
+  - Write it down
+  - Use a planner or TO-DO List
+  - Make use of Technology
+  - Leave work at Office
+  - Take Breaks on time
+  - Limit the amount of media intake
+  - De-stress your mind
+ 
 # 11 - Control Visitors
+- 
 
 # 12 - Art of Delegation
 
