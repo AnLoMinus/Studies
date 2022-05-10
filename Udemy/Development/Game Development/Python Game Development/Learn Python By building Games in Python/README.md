@@ -23,32 +23,32 @@
 - Python is a cross platform language, which means that code written for one operating system, such as Windows, will work well on Mac OS or Linux without making any changes to the Python code.
 
 ## What you will learn in this course ?
-- Learn Python by doing 5 Python Games Projects.
-- In this course you will learn how to Install Python 3.
-- In this course you will learn how to use python IDLE.
-- In this course you will learn how to choose Python IDE to learn coding.
-- In this course you will learn how to Install Anaconda for Python coding.
-- In this course you will learn how to use Online Jupyter for Python Programming.
-- In this course you will learn how to use Python IDLE.
-- In this course you will learn how What the difference between  Variables & Operators in Python.
-- In this course you will learn Operators Types in Python.
-- In this course you will learn Python Data Types.
-- In this course you will learn String Functions & entries in Python.
-- In this course you will learn how to use Input String Function in Python.
-- In this course you will learn Python Data Structures.
-- In this course you will learn how to create Lists & lists operations in Python.
-- In this course you will learn how to create Dictionaries & Dictionaries operations in Python .
-- In this course you will learn how to create Tuples & Tuples operations in Python.
-- In this course you will learn and when to use For Loop in Python. to create Sets & Sets operations in Python.
-- In this course you will learn how and when to use Control Flow and Loops in Python.
-- In this course you will learn IF Statement and control flow in Python.
-- In this course you will learn how and when to use For Loop in Python.
-- In this course you will learn how and when to use While Loop in Python.
-- In this course you will learn how to Handle Errors in your Python programs.
-- In this course you will learn how and when to use Python Functions.
-- In this course you will learn how and when to create functions in Python.
-- In this course you will learn how and when to use Lambda Expression in Python.
-- In this course you will learn how to create and use to Python Modules.
-- Learn how to use Python to open files.
-- Learn coding in Python by examples in this course.
+- Python by doing 5 Python Games Projects.
+- how to Install Python 3.
+- how to use python IDLE.
+- how to choose Python IDE to learn coding.
+- how to Install Anaconda for Python coding.
+- how to use Online Jupyter for Python Programming.
+- how to use Python IDLE.
+- how What the difference between  Variables & Operators in Python.
+- Operators Types in Python.
+- Python Data Types.
+- String Functions & entries in Python.
+- how to use Input String Function in Python.
+- Python Data Structures.
+- how to create Lists & lists operations in Python.
+- how to create Dictionaries & Dictionaries operations in Python .
+- how to create Tuples & Tuples operations in Python.
+- and when to use For Loop in Python. to create Sets & Sets operations in Python.
+- how and when to use Control Flow and Loops in Python.
+- IF Statement and control flow in Python.
+- how and when to use For Loop in Python.
+- how and when to use While Loop in Python.
+- how to Handle Errors in your Python programs.
+- how and when to use Python Functions.
+- how and when to create functions in Python.
+- how and when to use Lambda Expression in Python.
+- how to create and use to Python Modules.
+- how to use Python to open files.
+- coding in Python by examples in this course.
 
