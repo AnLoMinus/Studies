@@ -144,6 +144,11 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Set deadlines
 
 # 13 - Role of Health in Time Management
+- Eat Right
+- Exercise - Physical and Mental
+- Good Sleep
+- Fun Time
+- Relaxation and Vacation
 
 # 14 - 4D Principle
 
