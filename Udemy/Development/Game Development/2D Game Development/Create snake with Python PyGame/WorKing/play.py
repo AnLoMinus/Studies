@@ -44,7 +44,7 @@ class Game:
         pygame.init()
 
         # Set window
-        self._display_surf = pygame.display.set_mode((640,480), pygame.HWSURFACE)
+        self._display_surf = pygame.display.set_mode((1920,1080), pygame.HWSURFACE)
         pygame.display.set_caption('Pygame example')
 
         # Load lion image
@@ -119,9 +119,8 @@ class Game:
                 self.apple.x = randint(0,self.game_width) * self.grid_size
                 self.apple.y = randint(0,self.game_height) * self.grid_size
                 player_lenght=self.player.length
-                print(player_lenght)
+                print("You Eat: " + str(player_lenght))
                 self.player.length += 1
-
 
             # Detect lion collection with itself
             if len(self.player.positions) > self.player.length-1:
