@@ -151,6 +151,17 @@ If you have more things to do than you have time and frequently get overwhelmed 
 - Relaxation and Vacation
 
 # 14 - 4D Principle
+- Desire
+  - An intense, burning desire to control your time to archive maximum effectiveness
+
+- Decision
+  - Make a clear and firm decision that you are going to practice good time management till it becomes a habit
+
+- Discipline
+  - Discipline yourself to make it a lifelong practice
+
+- Determination
+  - Be willing to persist in the midst of all the difficulties untill you become an effective time manager
 
 # Summary and Conclusion
 - Develop a personal sense of time
