@@ -127,7 +127,13 @@ If you have more things to do than you have time and frequently get overwhelmed 
   - De-stress your mind
  
 # 11 - Control Visitors
-- 
+- Do not overdo the open door policy
+- Schedule Visits and Appointments
+- Meet visitors outside your door
+- Set the agenda before the meeting or early in the conversation
+- Let them know Time constraint before hand
+- If Possible have someone screen your visitors
+- Use your office for business activities and let others know this 
 
 # 12 - Art of Delegation
 
