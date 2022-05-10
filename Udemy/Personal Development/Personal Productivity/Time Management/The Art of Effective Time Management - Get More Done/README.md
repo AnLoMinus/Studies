@@ -152,3 +152,17 @@ If you have more things to do than you have time and frequently get overwhelmed 
 
 # 14 - 4D Principle
 
+# Summary and Conclusion
+- Develop a personal sense of time
+- Identify long and short term goals
+- Plan each day
+- Make TO-DO List
+- Do high priority actions first
+- Make the best every time
+- Declutter your Space and Mind
+- Manage meetings
+- Delegate effectively
+- Manage your health
+- Make Time Management work for you
+
+
