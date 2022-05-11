@@ -1,5 +1,5 @@
 # [Time Management & Productivity for Effective Time Management](https://www.udemy.com/course/time-management-training-workplace-productivity-office-productivity/)
-## 
+### Learn Time Management For Professionals & Personal Productivity Hacks ,Whether You Work From Home ,Office Or MBA Student
 
 ## What you'll learn
 - How to explode your productivity and Get More done In One Day Than Others Do In One Week
