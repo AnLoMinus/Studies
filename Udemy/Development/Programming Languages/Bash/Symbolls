@@ -1,0 +1,9 @@
+#!/bin/sh
+# |
+dirty_synced="*"
+unpushed="△"
+dirty_unpushed="▲"
+unpulled="▽"
+dirty_unpulled="▼"
+unpushed_unpulled="⬡"
+dirty_unpushed_unpulled="⬢"
