@@ -9,3 +9,5 @@
 - Use NSE with nmap
 - Attack network with NSE
 
+## Requirements
+- No prior knowledge required
