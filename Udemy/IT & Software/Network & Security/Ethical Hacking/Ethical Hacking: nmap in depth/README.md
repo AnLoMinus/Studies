@@ -11,3 +11,6 @@
 
 ## Requirements
 - No prior knowledge required
+
+## Who this course is for:
+- Beginner Ethical Hackers
