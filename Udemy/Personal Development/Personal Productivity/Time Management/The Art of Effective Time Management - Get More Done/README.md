@@ -1,6 +1,12 @@
+<div align="center">
+
+![image](https://user-images.githubusercontent.com/51442719/168648189-3f1acd4d-8c8e-4fbc-a620-7c192363563b.png)
+
 # [The Art of Effective Time Management - Get More Done](https://www.udemy.com/course/the-art-of-effective-time-management-get-more-done/)
 ## A Fast Paced Course on Time management Strategies to achieve your goals, eliminate distractions and 10x Your Results
 
+</div>  
+  
 ## Description
 - Time is precious.
 - You can earn more money, but you will never get more time.
