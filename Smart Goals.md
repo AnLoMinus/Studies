@@ -2,8 +2,6 @@
   
 # Time Management Assessment
 
-<img width="698" alt="image" src="https://user-images.githubusercontent.com/51442719/168650250-293419ad-321d-475b-82c9-74dee2a263cd.png">
-
 # Key Points
 **SMART** is a well-established tool that you can use to plan and achieve your goals.  
 While there are a number of interpretations of the acronym's meaning, the most common one is that goals should be Specific, Measurable, Achievable, Relevant, and Time-bound.  
