@@ -17,6 +17,11 @@
 ---
 
 # How to write SMART goals
+- S: [Specific]()
+- M: [Measurable]()
+- A: [Actionable]()
+- R: [Relevant]()
+- T: [Time Bound]()
 
 ## [S]: Specific
 #### Specific (simple, sensible, significant).
