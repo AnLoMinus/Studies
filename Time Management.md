@@ -5,15 +5,11 @@
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/51442719/168650250-293419ad-321d-475b-82c9-74dee2a263cd.png">
 
 </div>
+# Key Points
+SMART is a well-established tool that you can use to plan and achieve your goals. While there are a number of interpretations of the acronym's meaning, the most common one is that goals should be Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+### When you use SMART, you can create clear, attainable and meaningful goals, and develop the motivation, action plan, and support needed to achieve them.
   
----
-
-- Some tasks:
-  - Must be delegated
-  - Should be delegated
-  - Could be delegated
-  - Can’t be delegated
-
 ---
 
 # How to write SMART goals
@@ -89,3 +85,8 @@ This part of the SMART goal criteria helps to prevent everyday tasks from taking
 
 ---
 
+- Some tasks:
+  - Must be delegated
+  - Should be delegated
+  - Could be delegated
+  - Can’t be delegated
