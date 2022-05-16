@@ -1,5 +1,7 @@
 <h1 align="center"> 
 
+  ![image](https://user-images.githubusercontent.com/51442719/168648026-2d40a246-4d89-4bf8-966e-617552e7b947.png)
+
   [A Mini Course on Time Management](https://www.udemy.com/course/manageyourtime/learn/lecture/4770560) 
 
 </h1>
