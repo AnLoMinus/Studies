@@ -59,12 +59,23 @@ When you set an achievable goal, you may be able to identify previously overlook
 - An achievable goal will usually answer questions such as:
   - **How** can I accomplish this goal?
   - **How** realistic is the goal, based on other constraints, such as financial factors?
+  - **QUESTION**: Do I have the resources and capabilities to achieve the goal? If not, what am I missing?
+
 ---
 
 ## [R]: Relevant 
 #### Relevant (reasonable, realistic and resourced, results-based).
 This step is about ensuring that your goal matters to you, and that it also aligns with other relevant goals. We all need support and assistance in achieving our goals, but it's important to retain control over them.  
 So, make sure that your plans drive everyone forward, but that you're still responsible for achieving your own goal. 
+
+Realistic SMART Goals
+A SMART goal must be realistic in that the goal can be realistically achieved given the available resources and time. 
+A SMART goal is likely realistic if 
+
+- you believe that it can be accomplished. Ask yourself:
+  - Is the goal realistic and within reach?
+  - Is the goal reachable, given the time and resources?
+  - Are you able to commit to achieving the goal?
 
 - A relevant goal can answer "yes" to these questions:
   - Does this seem worthwhile?
