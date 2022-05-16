@@ -4,20 +4,24 @@
 
 <img width="698" alt="image" src="https://user-images.githubusercontent.com/51442719/168650250-293419ad-321d-475b-82c9-74dee2a263cd.png">
 
-</div>
 # Key Points
-SMART is a well-established tool that you can use to plan and achieve your goals. While there are a number of interpretations of the acronym's meaning, the most common one is that goals should be Specific, Measurable, Achievable, Relevant, and Time-bound.
+**SMART** is a well-established tool that you can use to plan and achieve your goals.  
+While there are a number of interpretations of the acronym's meaning, the most common one is that goals should be Specific, Measurable, Achievable, Relevant, and Time-bound.  
 
-### When you use SMART, you can create clear, attainable and meaningful goals, and develop the motivation, action plan, and support needed to achieve them.
+When you use SMART, you can create clear, attainable and meaningful goals, and develop the motivation, action plan, and support needed to achieve them.
+
+</div>
+
+
   
 ---
 
 # How to write SMART goals
-- S: [Specific]()
-- M: [Measurable]()
-- A: [Actionable]()
-- R: [Relevant]()
-- T: [Time Bound]()
+- S: [Specific](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#s-specific)
+- M: [Measurable](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#m-measurable)
+- A: [Actionable](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#a-achievable)
+- R: [Relevant](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#r-relevant)
+- T: [Time Bound](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#t-time-bound)
 
 ## [S]: Specific
 #### Specific (simple, sensible, significant).
