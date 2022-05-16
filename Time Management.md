@@ -15,6 +15,17 @@ When you use SMART, you can create clear, attainable and meaningful goals, and d
 
   
 ---
+- **Specific**: 
+  - Your goals should be specific to you and clear to understand.
+- **Measurable**: 
+  - Think about how you will measure your goals and which measurements you will use.
+- **Achievable**: 
+  - It important to make sure your goals are attainable so make sure that you set achievable goals.
+- **Realistic**: 
+  - Are your goals realistic for you?
+- **Time**: 
+  - Setting timeframes for goals will help to keep you motivated. Using short, medium, and long-term goals
+can be beneficial to keep you on track. 
 
 # How to write SMART goals
 - **S**: [Specific](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#s-specific) Well defined, clear, and unambiguous
@@ -38,6 +49,16 @@ Your goal should be clear and specific, otherwise you won't be able to focus you
   - **Who** is involved?
   - **Where** is it located?
   - **Which** resources or limits are involved?
+
+- Short term (4-6 weeks).
+  - • Increase daily steps to 6000-7000.
+  - • Complete 1x ExHALE cardiovascular and strength and balance video per week.
+- Medium (6 months):
+  - • Increase daily step to 8000-9000.
+  - • Increase flexibility by attending 1x yoga class per week.
+- Long term (1 year):
+  - • Complete a walking event with friends.
+  - • Continue with increased step, online and in person classes. 
 
 ---
 
