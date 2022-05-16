@@ -17,11 +17,11 @@ When you use SMART, you can create clear, attainable and meaningful goals, and d
 ---
 
 # How to write SMART goals
-- S: [Specific](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#s-specific)
-- M: [Measurable](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#m-measurable)
-- A: [Actionable](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#a-achievable)
-- R: [Relevant](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#r-relevant)
-- T: [Time Bound](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#t-time-bound)
+- **S**: [Specific](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#s-specific) Well defined, clear, and unambiguous
+- **M**: [Measurable](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#m-measurable) With specific criteria that measure your progress toward the accomplishment of the goal
+- **A**: [Actionable](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#a-achievable) Attainable and not impossible to achieve
+- **R**: [Relevant](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#r-relevant) Within reach, realistic, and relevant to your life purpose
+- **T**: [Time Bound](https://github.com/Anlominus/Studies/blob/main/Time%20Management.md#t-time-bound) With a clearly defined timeline, including a starting date and a target date. The purpose is to create urgency.
 
 ## [S]: Specific
 #### Specific (simple, sensible, significant).
@@ -46,10 +46,9 @@ Your goal should be clear and specific, otherwise you won't be able to focus you
 It's important to have measurable goals, so that you can track your progress and stay motivated. Assessing progress helps you to stay focused, meet your deadlines, and feel the excitement of getting closer to achieving your goal.
 
 - A measurable goal should address questions such as:
-  - **How** much?
-  - **How** many?
-  - **How** will I know when it is accomplished?
-
+  - **How** Many/Much?
+  - **How** will I know when it is Accomplished?
+  - **What** is my Indicator of Progress?
 ---
 
 ## [A]: Achievable
