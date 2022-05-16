@@ -38,12 +38,12 @@
 ---
 
 ## [R]: Relevant 
-### Relevant (reasonable, realistic and resourced, results-based).
+#### Relevant (reasonable, realistic and resourced, results-based).
 
 ---
 
 ## [T]: Time bound
-### Time bound (time-based, time limited, time/cost limited, timely, time-sensitive).
+#### Time bound (time-based, time limited, time/cost limited, timely, time-sensitive).
 
 ---
 
