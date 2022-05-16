@@ -17,7 +17,7 @@ When you use SMART, you can create clear, attainable and meaningful goals, and d
 ---
 
 # How to write SMART goals
-- S: [Specific](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#s-specific)
+- S: [Specific](https://github.com/Anlominus/Studies/main/Time%20Management.md#s-specific)
 - M: [Measurable](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#m-measurable)
 - A: [Actionable](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#a-achievable)
 - R: [Relevant](https://github.com/Anlominus/Studies/edit/main/Time%20Management.md#r-relevant)
