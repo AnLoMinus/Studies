@@ -6,7 +6,7 @@
 
 </div>
 
-# Smart Goals:
+# Smart [Goals](https:///github.com/Anlominus/Goals):
   - 1. Specific
   - 2. Measurable
   - 3. Actionable
