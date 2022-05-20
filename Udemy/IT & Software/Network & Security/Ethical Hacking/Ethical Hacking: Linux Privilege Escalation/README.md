@@ -13,6 +13,9 @@
   - How to crack Linux passwords
   - All about SUID, passwd and others
 
+- Who this course is for:
+  - Beginner Ethical Hackers
+
 - Requirements
   - Basic Linux knowledge required
 
