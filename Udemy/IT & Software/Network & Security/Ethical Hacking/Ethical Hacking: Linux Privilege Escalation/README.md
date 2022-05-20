@@ -1,7 +1,5 @@
 <div align="center">
 
-![image](https://user-images.githubusercontent.com/51442719/169572334-215bfeac-c9f9-447e-b332-f51bd88d44a1.png)
-
 ![image](https://user-images.githubusercontent.com/51442719/169568986-dfaf0c13-05df-49d8-b260-d0e6134bd745.png)
 
 # [Ethical Hacking: Linux Privilege Escalation](https://www.udemy.com/course/ethical-hacking-linux-privilege-escalation/)
