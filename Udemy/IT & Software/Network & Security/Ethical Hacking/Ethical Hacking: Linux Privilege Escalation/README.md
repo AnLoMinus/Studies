@@ -21,3 +21,6 @@
 - Requirements
   - Basic Linux knowledge required
 
+---
+
+- My Working: [Privilege Escalation](https://github.com/Anlominus/PenTest/tree/main/LIbrary/Privilege%20%20Escalation) Page
