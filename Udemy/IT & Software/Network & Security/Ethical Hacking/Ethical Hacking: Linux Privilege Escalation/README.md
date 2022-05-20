@@ -12,3 +12,7 @@
   - How to get Root on Linux systems
   - How to crack Linux passwords
   - All about SUID, passwd and others
+
+- Requirements
+  - Basic Linux knowledge required
+
