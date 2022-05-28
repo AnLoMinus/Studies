@@ -3,9 +3,9 @@
 ![image](https://user-images.githubusercontent.com/51442719/170784259-57c151de-68fd-4829-8f18-42b6d06aaf8e.png)
 
 # [WiFi Hacking using Evil Twin Attacks and Captive Portals](https://www.udemy.com/course/evil-twin-and-captive-portals/)
-  
+
 ## Learn advanced evil twin techniques using Captive Portals
-  
+
 </div>
 
 ## Description
@@ -37,8 +37,6 @@
 
 ## Who this course is for:
 - For everyone who wants to learn Wi-Fi Hacking using Evil Twin Attacks.
-
-
 
 ---
 
