@@ -10,6 +10,13 @@
 
 ---
 
+## This course includes:
+- 40 mins on-demand video
+- 2 downloadable resources
+- Full lifetime access
+- Access on mobile and TV
+- Certificate of completion
+
 ## What you'll learn
 - Learn how to design mascot bear logo step by step easy way
 - Professional mascot logo design project for social media/brand/website etc...
