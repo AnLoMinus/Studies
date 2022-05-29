@@ -1,7 +1,8 @@
 <div align="center">
 
+![image](https://user-images.githubusercontent.com/51442719/170888328-454d1f1b-1c87-46cb-9f44-2bc3feee7e6f.png)
 
-# How to create an animated promo video in PowerPoint
+# [How to create an animated promo video in PowerPoint](https://www.udemy.com/course/how-to-create-an-animated-promo-video-in-powerpoint/)
 ## Create your own custom animated video that you can use as a promo material for marketing campaign
 
   
@@ -45,4 +46,15 @@
     - Combining these effects, you can create your own custom video.
   - **convert presentation to high quality video**. 
     - You will gain enough knowledge to animate any static presentation in PowerPoint and produce the video.
-
+  - easy to create. 
+    - You can complete this course within several days and by the end of the course, you will have your video;
+  - easy to edit. 
+    - Once you create the video, you can easily change text, images, animation, etc. 
+    - and use it multiple times for different marketing campaigns;
+  - no need of complex video editing software. 
+    - The majority of people use Microsoft Office that includes PowerPoint. 
+    - That is all you need. Even if you never used PowerPoint, following our instructions will help you to create your own animated promo video.
+  - highest quality Ultra HD 4K. 
+    - PowerPoint 2019 allows recording video in Ultra HD 4K (3840 × 2160 px). 
+    - For this course, we will record the video in FullHD to reduce file size and increase speed. 
+    - Recording the Ultra HD 4K has no difference in work process, you just need to select this resolution in the end.
