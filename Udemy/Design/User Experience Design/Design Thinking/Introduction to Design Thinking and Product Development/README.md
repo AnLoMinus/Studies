@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/51442719/170886636-d5b325a1-7e2d-43d1-96ea-cd0ca74c6043.png)
   
   
-# Introduction to Design Thinking and Product Development
+# [Introduction to Design Thinking and Product Development](https://www.udemy.com/course/design-thinking-product-development/)
 
 </div>
   
