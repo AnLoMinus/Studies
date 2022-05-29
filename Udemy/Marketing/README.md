@@ -1,4 +1,4 @@
-
+<div align="center">
 
 ![Social Media Mastery 2022| Increase Customer Conversion Rate](https://img-c.udemycdn.com/course/240x135/4445732_d668_3.jpg)
 
