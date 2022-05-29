@@ -10,6 +10,15 @@
 
 ---
 
+## This course includes:
+- 2 hours on-demand video
+- 1 article
+- 1 downloadable resource
+- Full lifetime access
+- Access on mobile and TV
+- Assignments
+- Certificate of completion
+
 ## What you'll learn
 - What you can sell using social media
 - How you can identify the unique value and selling point of your business
@@ -48,4 +57,5 @@
 - Freelancers
 - Influencers
 - Anybody interested in social media
+
 
