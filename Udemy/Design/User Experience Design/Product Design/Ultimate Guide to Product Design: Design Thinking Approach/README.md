@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/51442719/170886953-92ad5f58-2736-4ac1-b17e-6753044dd822.png)
 
-# Ultimate Guide to Product Design: Design Thinking Approach
+# [Ultimate Guide to Product Design: Design Thinking Approach](https://www.udemy.com/course/design-engaging-products-using-design-thinking/)
 ## Uncover the secrets of successful products for outstanding user experience. Design your unique product that users love!
 
 
