@@ -1,7 +1,7 @@
 <div align="center">
 
 ![image](https://user-images.githubusercontent.com/51442719/170881274-2dba1c04-92c0-4046-a185-af6a1f2b3d92.png)  
-  
+
 # [Instagram Lead Generation: Turn Followers to Customers](https://www.udemy.com/course/instagram-lead-generation/)
 ### Attract clients and make sales even with a small following on Instagram. Create a target audience & get discovered.
   
@@ -42,3 +42,6 @@
 - Affiliate marketers
 - Aspiring entrepreneurs
 
+---
+
+- [Ina Libra](https://www.udemy.com/user/ina-libra/)
