@@ -31,3 +31,5 @@
 - create an amazing pie-chart in a paper cut style to show the different parts of a whole, indicating them with a pleasant flat colors;
 - and an advanced level: build an elegant, half-transparent funnel that you can use as a hierarchy infographic;
 
+## Who this course is for:
+- PowerPoint users who want to do an eye-catching informational graphics in their presentations instead of boring charts and graphs
