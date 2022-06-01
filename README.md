@@ -41,3 +41,7 @@
 
 - English Learning
   - [English exercises](https://agendaweb.org/)
+
+---
+
+![Alt](https://repobeats.axiom.co/api/embed/2f7ce7b9ddcec95efa2219aa4ed695cb85a23c3b.svg "Repobeats analytics image")
