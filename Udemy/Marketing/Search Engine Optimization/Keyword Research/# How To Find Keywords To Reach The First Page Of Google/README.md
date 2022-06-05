@@ -15,3 +15,20 @@
 - Best Practices for Keyword usage
 - Things you should never do with Keywords
 - Further learning and ways to continue building your knowledge
+
+# What Keyword Mastery will teach you:
+- What keywords are and why they are important
+- How Keywords can help you reach the first page of Google
+- The reasons why doing Keyword Research can increase organic traffic
+- How to use fantastic tools to carry out Keyword Research
+- Tips and tricks for using Keywords in your content to boost your rankings
+
+# Who this course is for:
+- People interested in getting more organic traffic
+- Anyone wanting to learn about SEO
+- Blog and website owners and E-Commerce Store owners wanting to increase visibility
+
+# Requirements
+- An interest in increasing organic traffic to your blog or website
+- A basic knowledge of writing blog posts or articles online
+- The ability to follow instructions and take action
