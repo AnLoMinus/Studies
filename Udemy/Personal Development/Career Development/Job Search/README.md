@@ -43,3 +43,8 @@
 - This course is not for you if you want "Quick Fix" methods
 - If you want a change without making a change; don't take this course
 
+
+
+---
+
+- [Course Slides PDF - Download](https://startyourownbusinessacademy.com/wp-content/uploads/2016/05/How-To-Position-Yourself-For-A-Better-Paying-Job-%E2%80%93-Fast-1.pdf)
