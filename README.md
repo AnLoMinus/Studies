@@ -24,7 +24,7 @@
   - [x] Longitudinal Studies.
      - [x] [Udemy](https://github.com/Anlominus/Studies/tree/main/Udemy) 
   - [x] **Experimental Studies**.
-     - [x] TryHackMe: [Learning Paths](https://github.com/Anlominus/TryHackMe#learning-paths)
+     - [x] TryHackMe: [Learning Paths](https://github.com/Anlominus/TryHackMe#learning-paths-)
   - [ ] Clinical Trial Studies.
 
 ---
