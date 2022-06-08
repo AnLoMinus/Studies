@@ -10,7 +10,7 @@
   - [Office Productivity](https://github.com/Anlominus/Studies/tree/main/Udemy#office-productivity)
   - [Personal Development](https://github.com/Anlominus/Studies/tree/main/Udemy#personal-development)
   - [Design](https://github.com/Anlominus/Studies/tree/main/Udemy#Design)
-  - [Marketing](https://github.com/Anlominus/Studies/tree/main/Udemy#Marjeting)
+  - [Marketing](https://github.com/Anlominus/Studies/tree/main/Udemy#Marketing)
   - [Lifestyle](https://github.com/Anlominus/Studies/tree/main/Udemy#Lifrstyle)
   - [Photography & Video](https://github.com/Anlominus/Studies/tree/main/Udemy#photography--video)
   - [Health & Fitness](https://github.com/Anlominus/Studies/tree/main/Udemy#health--fitness)
