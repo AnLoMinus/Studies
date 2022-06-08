@@ -18,18 +18,14 @@
 
 # Studies
 ### Studies - All the subjects I study and teach!
-
-- Academy 
-  - [Udemy](https://github.com/Anlominus/Studies/tree/main/Udemy)
-
----
-
-### The five types of studies are discussed below.
-- Case Studies.
-- Correlational Studies.
-- Longitudinal Studies.
-- **Experimental Studies**.
-- Clinical Trial Studies.
+- 5 Types of Studies.
+  - [ ] Case Studies.
+  - [ ] Correlational Studies.
+  - [x] Longitudinal Studies.
+     - [x] [Udemy](https://github.com/Anlominus/Studies/tree/main/Udemy) 
+  - [x] **Experimental Studies**.
+     - [x] TryHackMe: [Learning Paths]([https://github.com/Anlominus/TryHackMe](https://github.com/Anlominus/TryHackMe#learning-paths))
+  - [ ] Clinical Trial Studies.
 
 ---
 
