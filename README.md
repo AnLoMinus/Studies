@@ -1,4 +1,3 @@
->בס״ד
 > בס״ד
 <div align="center">
 
