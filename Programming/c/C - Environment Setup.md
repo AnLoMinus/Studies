@@ -23,7 +23,23 @@
 ```sh
 gcc -v
 ```
+- If you have GNU compiler installed on your machine, then it should print a message as follows −
+```sh
+# In RedHat OS
+$ gcc -v
+Using built-in specs.
+Target: i386-redhat-linux
+Configured with: ../configure --prefix=/usr .......
+Thread model: posix
+gcc version 4.1.2 20080704 (Red Hat 4.1.2-46)
 
+# In MacOS 
+$ gcc -v
+Apple clang version 13.1.6 (clang-1316.0.21.2.5)
+Target: x86_64-apple-darwin21.5.0
+Thread model: posix
+InstalledDir: /Library/Developer/CommandLineTools/usr/bin
+```
 
 
 
