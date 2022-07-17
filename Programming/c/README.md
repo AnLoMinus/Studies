@@ -10,7 +10,7 @@
 - [x] [C - Home](./C%20-%20Home.md)
 - [x] [C - Overview](./C%20-%20Overview.md)
 - [x] [C - Environment Setup](./C%20-%20Environment%20Setup.md)
-- [ ] [C - Program Structure]()
+- [x] [C - Program Structure](./C%20-%20Program%20Structure.md)
 - [ ] [C - Basic Syntax]()
 - [ ] [C - Data Types]()
 - [ ] [C - Variables]()
