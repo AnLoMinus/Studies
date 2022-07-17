@@ -8,4 +8,22 @@
   - For example, `Notepad` will be used on Windows, and `vim` or `vi` can be used on windows as well as on Linux or UNIX.
 - The files you create with your editor are called the source files and they contain the program source codes. 
 - The source files for C programs are typically named with the extension "`.c`".
+- Before starting your programming, make sure you have one text editor in place and you have enough experience to write a computer program, save it in a file, compile it and finally execute it.
+
+# The C Compiler
+- The source code written in source file is the human readable source for your program. 
+- It needs to be "compiled", into machine language so that your CPU can actually execute the program as per the instructions given.
+- The compiler compiles the source codes into final executable programs. 
+- The most frequently used and free available compiler is the GNU C/C++ compiler, otherwise you can have compilers either from HP or Solaris if you have the respective operating systems.
+- The following section explains how to install GNU C/C++ compiler on various OS. 
+- We keep mentioning C/C++ together because GNU gcc compiler works for both C and C++ programming languages.
+
+# Installation on UNIX/Linux
+- If you are using Linux or UNIX, then check whether GCC is installed on your system by entering the following command from the command line −
+```sh
+gcc -v
+```
+
+
+
 
