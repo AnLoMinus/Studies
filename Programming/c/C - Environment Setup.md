@@ -40,6 +40,10 @@ Target: x86_64-apple-darwin21.5.0
 Thread model: posix
 InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 ```
+> If GCC is not installed, then you will have to install it yourself using the detailed instructions available at https://gcc.gnu.org/install/
+- This tutorial has been written based on Linux and all the given examples have been compiled on the Cent OS flavor of the Linux system.
+
+
 
 
 
