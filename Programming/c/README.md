@@ -16,3 +16,11 @@
 > - It produces efficient programs
 > - It can handle low-level activities
 > - It can be compiled on a variety of computer platforms
+
+# Facts about C
+> - C was invented to write an operating system called UNIX.
+> - C is a successor of B language which was introduced around the early 1970s.
+> - The language was formalized in 1988 by the American National Standard Institute (ANSI).
+> - The UNIX OS was totally written in C.
+> - Today C is the most widely used and popular System Programming Language.
+> - Most of the state-of-the-art software have been implemented using C.
