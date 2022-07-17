@@ -41,3 +41,9 @@ The UNIX operating system, the C compiler, and essentially all UNIX application 
 # C Programs
 - A C program can vary from 3 lines to millions of lines and it should be written into one or more text files with extension "`.c`"; for example, `hello.c`. You can use "`vi`", "`vim`" or any other text editor to write your C program into a file.
 
+---
+
+> This tutorial assumes that you know how to edit a text file and how to write source code inside a program file.
+
+
+
