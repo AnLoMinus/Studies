@@ -43,7 +43,8 @@ InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 > If GCC is not installed, then you will have to install it yourself using the detailed instructions available at https://gcc.gnu.org/install/
 - This tutorial has been written based on Linux and all the given examples have been compiled on the Cent OS flavor of the Linux system.
 
-
-
+# Installation on Mac OS
+- If you use Mac OS X, the easiest way to obtain GCC is to download the Xcode development environment from Apple's web site and follow the simple installation instructions. Once you have Xcode setup, you will be able to use GNU compiler for C/C++.
+> - Xcode is currently available at developer.apple.com/technologies/tools/.
 
 
