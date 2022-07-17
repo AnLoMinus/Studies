@@ -55,3 +55,13 @@ int main() {
 > - Databases
 > - Language Interpreters
 > - Utilities
+
+# Audience
+> This tutorial is designed for software programmers with a need to understand the C programming language starting from scratch. 
+
+> This C tutorial will give you enough understanding on C programming language from where you can take yourself to higher level of expertise.
+
+# Prerequisites
+> Before proceeding with this tutorial, you should have a basic understanding of Computer Programming terminologies. 
+
+> A basic understanding of any of the programming languages will help you in understanding the C programming concepts and move fast on the learning track.
