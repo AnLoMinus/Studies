@@ -45,6 +45,6 @@ InstalledDir: /Library/Developer/CommandLineTools/usr/bin
 
 # Installation on Mac OS
 - If you use Mac OS X, the easiest way to obtain GCC is to download the Xcode development environment from Apple's web site and follow the simple installation instructions. Once you have Xcode setup, you will be able to use GNU compiler for C/C++.
-> - Xcode is currently available at developer.apple.com/technologies/tools/.
+> - Xcode is currently available at https://developer.apple.com/technologies/tools/.
 
 
