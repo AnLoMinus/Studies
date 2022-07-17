@@ -38,3 +38,11 @@ int main() {
   - If there are no errors in your code, the command prompt will take you to the next line and would generate `Hello` executable file.
   - Now, type `./Hello` to execute your program.
   - You will see the output "Hello World" printed on the screen.
+
+```c
+$ gcc hello.c -o Hello
+$ ./Hello
+Hello, World!
+```
+> - Make sure the gcc compiler is in your path and that you are running it in the directory containing the source file hello.c.
+
