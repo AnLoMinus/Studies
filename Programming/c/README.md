@@ -9,7 +9,7 @@
 # [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/)
 - [x] [C - Home](./C%20-%20Home.md)
 - [x] [C - Overview](./C%20-%20Overview.md)
-- [ ] [C - Environment Setup]()
+- [x] [C - Environment Setup](./C%20-%20Environment%20Setup.md)
 - [ ] [C - Program Structure]()
 - [ ] [C - Basic Syntax]()
 - [ ] [C - Data Types]()
