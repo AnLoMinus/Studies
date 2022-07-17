@@ -38,3 +38,20 @@ int main() {
    return 0;
 }
 ```
+
+# Applications of C Programming
+> C was initially used for system development work, particularly the programs that make-up the operating system. 
+
+> C was adopted as a system development language because it produces code that runs nearly as fast as the code written in assembly language. 
+
+> Some examples of the use of C are -
+> - Operating Systems
+> - Language Compilers
+> - Assemblers
+> - Text Editors
+> - Print Spoolers
+> - Network Drivers
+> - Modern Programs
+> - Databases
+> - Language Interpreters
+> - Utilities
