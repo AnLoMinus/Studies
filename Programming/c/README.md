@@ -1,3 +1,11 @@
+> בס״ד
+
+---
+
+![image](https://user-images.githubusercontent.com/51442719/179425603-9e334cbc-5e1c-4975-9f45-a437c629fe44.png)
+
+---
+
 # [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/)
 - [x] [C - Home](./C%20-%20Home.md)
 - [x] [C - Overview](./C%20-%20Overview.md)
@@ -30,3 +38,7 @@
 - [ ] [C - Variable Arguments]()
 - [ ] [C - Memory Management]()
 - [ ] [C - Command Line Arguments]()
+
+---
+
+![image](https://user-images.githubusercontent.com/51442719/179425553-e9c5995a-d915-4464-a73e-075679c4db8b.png)
