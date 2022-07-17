@@ -1,5 +1,5 @@
 # C Tutorial
-> C programming is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. 
+> **C programming** is a general-purpose, procedural, imperative computer programming language developed in 1972 by Dennis M. 
 
 > Ritchie at the Bell Telephone Laboratories to develop the UNIX operating system. C is the most widely used computer language. 
 
@@ -8,7 +8,7 @@
 ---
 
 # Why to Learn C Programming?
-> C programming language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain.
+> **C programming** language is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Software Development Domain.
 
 > I will list down some of the key advantages of learning C Programming:
 > - Easy to learn
@@ -24,3 +24,17 @@
 > - The UNIX OS was totally written in C.
 > - Today C is the most widely used and popular System Programming Language.
 > - Most of the state-of-the-art software have been implemented using C.
+
+# Hello World using C Programming.
+> Just to give you a little excitement about **C programming**, I'm going to give you a small conventional C Programming Hello World program, You can try it using Demo link.
+
+```c
+#include <stdio.h>
+
+int main() {
+   /* my first program in C */
+   printf("Hello, World! \n");
+   
+   return 0;
+}
+```
