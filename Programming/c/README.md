@@ -12,7 +12,7 @@
 - [x] [C - Environment Setup](./C%20-%20Environment%20Setup.md)
 - [x] [C - Program Structure](./C%20-%20Program%20Structure.md)
 - [x] [C - Basic Syntax](https://github.com/AnLoMinus/Studies/blob/main/Programming/c/C%20-%20Basic%20Syntax.md)
-- [ ] [C - Data Types]()
+- [ ] [C - Data Types](./C%20-%20Data%20Types.md)
 - [ ] [C - Variables]()
 - [ ] [C - Constants]()
 - [ ] [C - Storage Classes]()
