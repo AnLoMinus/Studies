@@ -48,7 +48,20 @@ j
 a23b9 
 retVal
 ```
-
+# Keywords
+- The following list shows the reserved words in C. 
+- These reserved words may not be used as constants or variables or any other identifier names.
+ 
+|   **auto**   |  **else**  |   **long**   |  **switch**  |
+|:------------:|:----------:|:------------:|:------------:|
+|   **break**  |  **enum**  | **register** |  **typedef** |
+|   **case**   | **extern** |  **return**  |   **union**  |
+|   **char**   |  **float** |   **short**  | **unsigned** |
+|   **const**  |   **for**  |  **signed**  |   **void**   |
+| **continue** |  **goto**  |  **sizeof**  | **volatile** |
+|  **default** |   **if**   |  **static**  |   **while**  |
+|    **do**    |   **int**  |  **struct**  |  **_Packed** |
+|  **double**  |            |              |              |
 
 
 
