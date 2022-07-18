@@ -35,6 +35,7 @@
 # 1. Specific | 😅
   - [ ] Be A Billionaire
   - [ ] Hack The Planet
+  - [ ] Help to Poor People’s 
   - [ ] Learn C/C++ Programming
   - [ ] Building DATOS Based Linux
   - [ ] Building Cyber OS Based Linux
