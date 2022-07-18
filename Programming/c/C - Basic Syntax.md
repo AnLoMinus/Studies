@@ -24,6 +24,12 @@ printf
 printf("Hello, World! \n");
 return 0;
 ```
+# Comments
+- Comments are like helping text in your C program and they are ignored by the compiler. 
+> They start with /* and terminate with the characters */ as shown below:
+```c
+/* my first program in C */
+```
 
 
 
