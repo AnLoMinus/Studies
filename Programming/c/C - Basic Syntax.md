@@ -63,7 +63,19 @@ retVal
 |    **do**    |   **int**  |  **struct**  |  **_Packed** |
 |  **double**  |            |              |              |
 
+# Whitespace in C
+- A line containing only whitespace, possibly with a comment, is known as a blank line, and a C compiler totally ignores it.
 
-
-
+- Whitespace is the term used in C to describe blanks, tabs, newline characters and comments. 
+- Whitespace separates one part of a statement from another and enables the compiler to identify where one element in a statement, such as int, ends and the next element begins. 
+> Therefore, in the following statement:
+```c
+int age;
+```
+- there must be at least one whitespace character (usually a space) between int and age for the compiler to be able to distinguish them. 
+> On the other hand, in the following statement:
+```c
+fruit = apples + oranges;   // get the total fruit
+```
+- no whitespace characters are necessary between fruit and =, or between = and apples, although you are free to include some if you wish to increase readability.
 
