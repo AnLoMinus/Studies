@@ -11,7 +11,7 @@
 - [x] [C - Overview](./C%20-%20Overview.md)
 - [x] [C - Environment Setup](./C%20-%20Environment%20Setup.md)
 - [x] [C - Program Structure](./C%20-%20Program%20Structure.md)
-- [ ] [C - Basic Syntax](https://github.com/AnLoMinus/Studies/blob/main/Programming/c/C%20-%20Basic%20Syntax.md)
+- [x] [C - Basic Syntax](https://github.com/AnLoMinus/Studies/blob/main/Programming/c/C%20-%20Basic%20Syntax.md)
 - [ ] [C - Data Types]()
 - [ ] [C - Variables]()
 - [ ] [C - Constants]()
