@@ -27,16 +27,22 @@
 
 # Knowledge is power, thirsts for more, loves to love to learn!
 
-![image](https://user-images.githubusercontent.com/51442719/166158602-eeffde5b-7138-4813-b307-0f6f0a6f44d0.png)
+![image](https://user-images.githubusercontent.com/51442719/179527795-4e7c9a90-c361-4397-8359-72fc3c42d464.png)
 
 </div>
 
 # Smart [Goals](https:///github.com/Anlominus/Goals):
-  - 1. Specific
-  - 2. Measurable
-  - 3. Actionable
-  - 4. Relevant
-  - 5. Time Bound
+# 1. Specific | 😅
+  - [ ] Be A Billionaire
+  - [ ] Hack The Planet
+  - [ ] Learn C/C++ Programming
+  - [ ] Building DATOS Based Linux
+  - [ ] Building Cyber OS Based Linux
+  - [ ] Finish All TryHackMe Paths Career 
+# 2. Measurable
+# 3. Actionable
+# 4. Relevant
+# 5. Time Bound
 
 
 ---
