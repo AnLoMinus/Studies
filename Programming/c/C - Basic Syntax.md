@@ -7,7 +7,7 @@
 ```c
 printf("Hello, World! \n");
 ```
-- The individual tokens are:
+> The individual tokens are:
 ```c
 printf
 (
