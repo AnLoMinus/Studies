@@ -13,6 +13,7 @@
   - [Change Variable Values](#change-variable-values)
 
 - [Problem Description](#problem-description)
+  - [Create a program to print the variable.](#create-a-program-to-print-the-variable)
 
 
 ---
@@ -191,9 +192,9 @@ int main() {
 
 # Problem Description
 
-- Create a program to print the variable.
-  - Create two variables `number1` with value `34` and `number2` with value `78.32`.
-  - Print `number1` and `number2` with a space in between.
+### Create a program to print the variable.
+- Create two variables `number1` with value `34` and `number2` with value `78.32`.
+- Print `number1` and `number2` with a space in between.
 ```c
 #include <stdio.h>
 
