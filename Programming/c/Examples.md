@@ -160,6 +160,31 @@ int main() {
 ---
 
 # Change Variable Values
+- As suggested by the name variable, we can change the value stored in a variable. 
+> Let's see an example:
+```c
+#include <stdio.h>
+ 
+int main() {
+ 
+  // create a variable 
+  int age = 25;
+  printf("%d ", age);
+ 
+  // assign new value to age
+  age = 31;
+  printf("%d", age);
+ 
+  return 0;
+}
+```
+- Here,
+  - The initial value of age is `25`. 
+  - So, we get `25` as output.
+  - The line `age = 31;` changed the value to `31`. 
+  - So, we get `31` when we print age again.
+> 💡 Note: When we change the value of a variable, the type of value and variable must match. <br>
+> For example, `age` is an `int` variable, so we cannot store decimal numbers to it.
 
 
 ---
