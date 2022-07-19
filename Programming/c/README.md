@@ -57,4 +57,4 @@
 
 ---
 
-![image](https://user-images.githubusercontent.com/51442719/179425553-e9c5995a-d915-4464-a73e-075679c4db8b.png)
+### Programiz [Learn C Programming](https://www.programiz.com/c-programming)
