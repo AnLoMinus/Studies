@@ -12,6 +12,7 @@
   - [Assign Value to double and char Variables](#assign-value-to-double-and-char-variables)
   - [Change Variable Values](#change-variable-values)
   - [Value of One Variable to Another](#value-of-one-variable-to-another)
+  - [Create Multiple Variables Together](#create-multiple-variables-together)
 
 - [Problem Description](#problem-description)
   - [Create a program to print the variable.](#create-a-program-to-print-the-variable)
@@ -213,6 +214,32 @@ int main() {
  
 // Output: 33  87
 ```
+- Here, we have assigned the value of the `number2` variable to the `number1` variable.
+> 💡 Tip: Always read the error message carefully. It may help us fix the error.
+
+---
+
+# Create Multiple Variables Together
+- We can also create multiple variables together in a single line. 
+> Let's see an example,
+```c
+#include <stdio.h>
+ 
+int main() {
+ 
+  // create two variables together
+  int age = 25, id = 132;
+  
+  printf("%d ", age);
+  printf("%d", id);
+  
+  return 0;
+}
+```
+- Here, we have created two variables `age` and `id` together in the same line with values `25` and `132` respectively.
+
+
+
 
 
 ---
@@ -261,6 +288,36 @@ int main() {
     return 0;
 }
 ```
+
+### Assign One Variable to Other
+- Create a program to assign the value of one variable to another.
+  - Create an integer variable named `distance` with value `135`.
+  - Print the `distance` variable.
+  - Create another integer variable named `newDistance` with value `429`.
+  - Assign the `newDistance` variable to the `distance` variable.
+  - Print the `distance` variable again with two spaces before it.
+```c
+// Replace ___ with your code
+
+#include <stdio.h>
+
+int main() {
+
+    // create and print the distance variable
+    int distance = 135;
+    printf("%d", distance);
+    
+    // create the newDistance variable
+    int newDistance = 429;
+
+    // assign newDistance to distance and print distance
+    distance = newDistance;
+    printf("  %d", distance);
+
+    return 0;
+}
+```
+
 ---
 
 
