@@ -4,6 +4,7 @@
 
 ### Content
 - [Assign Values to Variables](#assign-values-to-variables)
+- [Declare and Assign Value together](#declare-and-assign-value-together)
 
 
 ---
@@ -19,4 +20,18 @@ int age;
 age = 25;
 ```
 
+- Here, we have used the `=` operator to assign the value `25` to the `age` variable.
+
 ---
+
+# Declare and Assign Value together
+- We can also assign values to variables during their declaration. 
+> Let's see how:
+```c
+int age = 25;
+```
+
+- Here, we have created a variable and assigned a value to it in a single statement.
+
+---
+
