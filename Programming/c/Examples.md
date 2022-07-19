@@ -7,6 +7,8 @@
   - [Assign Values to Variables](#assign-values-to-variables)
   - [Declare and Assign Value together](#declare-and-assign-value-together)
   - [Print Variables](#print-variables)
+  - [Print double Variables](#print-double-variables)
+
 
 
 ---
@@ -65,6 +67,27 @@ int main() {
 > 💡 Note: The `%d` format specifier can only be used to print int variables. <br> To print double variables, we use `%lf`, which we will see next.
 
 
+
+---
+
+# Print double Variables
+- Now that we know how to print variables, let's use the same concept to print a `double` variable.
+```c
+#include <stdio.h>
+ 
+int main() {
+ 
+  // create double type variable
+  double number= 36.43;
+ 
+  // print the variable
+  printf("%lf ", number);
+  
+  return 0;
+}
+ 
+// Output: 36.430000
+```
 
 
 ---
