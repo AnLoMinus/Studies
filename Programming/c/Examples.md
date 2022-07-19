@@ -3,15 +3,17 @@
 # Examples
 
 ### Content
-- Variables
+- [Variables](#variables)
   - [Assign Values to Variables](#assign-values-to-variables)
   - [Declare and Assign Value together](#declare-and-assign-value-together)
   - [Print Variables](#print-variables)
   - [Print double Variables](#print-double-variables)
 
+- [Problem Description](#problem-description)
 
 
 ---
+# Variables
 
 # Assign Values to Variables
 - Once we declare a variable, we can assign a value to it. 
@@ -94,6 +96,32 @@ int main() {
 
 
 ---
+
+# Problem Description
+
+- Create a program to print the variable.
+  - Create two variables `number1` with value `34` and `number2` with value `78.32`.
+  - Print `number1` and `number2` with a space in between.
+```c
+#include <stdio.h>
+
+int main() {
+  
+  int number1 = 34;
+  double number2 = 78.32;
+
+  printf("%d", number1);
+  printf(" %lf", number2);
+
+  return 0;
+}
+``` 
+
+---
+
+
+
+
 
 - [Learn C Programming](https://app.programiz.pro/course/learn-c-programming)
 
