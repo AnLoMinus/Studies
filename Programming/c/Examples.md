@@ -89,6 +89,9 @@ int main() {
 // Output: 36.430000
 ```
 
+- Here, we have used `%lf` to print number (a `double` variable).
+
+
 
 ---
 
