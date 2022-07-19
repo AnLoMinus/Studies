@@ -8,7 +8,7 @@
   - [Declare and Assign Value together](#declare-and-assign-value-together)
   - [Print Variables](#print-variables)
   - [Print double Variables](#print-double-variables)
-  - [Character Variables]()
+  - [Character Variables](#character-variables)
 
 - [Problem Description](#problem-description)
 
