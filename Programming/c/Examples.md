@@ -14,6 +14,7 @@
 
 - [Problem Description](#problem-description)
   - [Create a program to print the variable.](#create-a-program-to-print-the-variable)
+  - [Create a program to change the value of a variable.]()
 
 
 ---
@@ -187,8 +188,8 @@ int main() {
 > 💡 Note: When we change the value of a variable, the type of value and variable must match. <br>
 > For example, `age` is an `int` variable, so we cannot store decimal numbers to it.
 
-
 ---
+
 
 # Problem Description
 
@@ -210,6 +211,30 @@ int main() {
 }
 ``` 
 
+### Create a program to change the value of a variable.
+- Create an integer variable `number` with value `31`.
+- Print the variable.
+- Change the value of the variable to `99`.
+- Print the variable again with a space before it.
+
+```c
+#include <stdio.h>
+
+int main() {
+  
+    // create and print an integer variable
+    int number = 31;
+    printf("%d", number);
+
+    // change the value of variable
+    number = 99;
+
+    // print the variable
+    printf(" %d", number);
+
+    return 0;
+}
+```
 ---
 
 
