@@ -1,6 +1,6 @@
 > בס״ד
 
-# Examples
+# C Programming Examples
 
 ### Content
 - [Variables](#variables)
