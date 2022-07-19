@@ -138,3 +138,19 @@ Precision value: 6
 |1|<p>**Function returns as void**</p><p>There are various functions in C which do not return any value or you can say they return void. A function  with no return  value  has  the  return  type  as  void. For example,  **void  exit (int status);**</p>|
 |2|<p>**Function arguments as void**</p><p>There  are various  functions  in C which  do  not  accept any  parameter. A function  with no parameter can accept a void. For example, **int rand(void);**</p>|
 |3|<p>**Pointers to void**</p><p>A pointer of type void \* represents the address of an object, but not its type. For example, a memory allocation function **void  \*malloc(  size\_t size  );** returns a pointer to void which can be casted to any data type.</p>|
+
+---
+
+# Data Types
+- Data types determine the type of data associated with variables.
+    - 1. `int` type - used for integer values without decimal. For example, `4`, `-43`, etc.
+    - 2. `double` type - used for floating-point numbers with decimal. For example, `34.9`, `98.2`, etc.
+    - 3. `char` type - used for characters. For example, '`g`', '`(`', '`-`', etc.
+
+- Now, to create a variable that stores floating-point numbers and characters, we use `double` and `char` respectively. 
+> For example,
+```c
+double salary;
+
+char letter;
+```
