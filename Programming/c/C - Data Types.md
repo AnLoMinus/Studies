@@ -157,6 +157,9 @@ char letter;
 
 ---
 
+# Basic types
+- Here's a table containing commonly used types in C programming for quick access.
+
 |        **Type**        |        **Size (bytes)**       | **Format Specifier** |
 |:----------------------:|:-----------------------------:|:--------------------:|
 | int                    | at least 2, usually 4         | %d, %i               |
@@ -172,3 +175,35 @@ char letter;
 | signed char            | 1                             | %c                   |
 | unsigned char          | 1                             | %c                   |
 | long double            | at least 10, usually 12 or 16 | %Lf                  |
+
+## int
+- Integers are whole numbers that can have both zero, positive and negative values but no decimal values. For example, `0`, `-5`, `10`
+> We can use int for declaring an integer variable.
+```c
+int id;
+```
+- Here, id is a variable of type integer.
+- You can declare multiple variables at once in C programming. 
+> For example;
+```c
+int id, age;
+```
+- The size of `int` is usually 4 bytes (`32 bits`). 
+- And, it can take 232 distinct states from `-2147483648` to `2147483647`.
+
+## float and double
+- float and double are used to hold real numbers.
+```c
+float salary;
+double price;
+```
+- In C, floating-point numbers can also be represented in exponential. 
+> For example,
+```c
+float normalizationFactor = 22.442e2;
+```
+
+- What's the difference between `float` and `double`?
+- The size of `float` (single precision float data type) is 4 bytes. 
+- And the size of `double` (double precision float data type) is 8 bytes.
+
