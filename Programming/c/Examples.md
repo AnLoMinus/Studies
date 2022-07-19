@@ -106,7 +106,24 @@ char alphabet = 's';
 ```
 - Here, `alphabet` is a character variable with data `'s'`. In C programming, we use single quotes to denote characters.
 - Similar to `int` and `double` variables, we can also print character variables using the `printf()` function. 
-> Let's see an example,
+> Let's see an example:
+```c
+#include <stdio.h>
+ 
+int main() {
+ 
+  // create a char variable
+  char alphabet = 's';
+ 
+ // to print char variable, we use %c
+  printf("%c", alphabet);
+ 
+  return 0;
+}
+ 
+// Output: s
+```
+- Notice that we have used the `%c` format specifier to print character variables.
 
 
 
