@@ -41,4 +41,20 @@
 
 ---
 
+| **C Header Files** |            **Description**            |
+|:------------------:|:-------------------------------------:|
+|     <assert.h>     |      Program assertion functions      |
+|      <ctype.h>     |        Character type functions       |
+|     <locale.h>     |         Localization functions        |
+|      <math.h>      |         Mathematics functions         |
+|     <setjmp.h>     |             Jump functions            |
+|     <signal.h>     |       Signal handling functions       |
+|     <stdarg.h>     | Variable arguments handling functions |
+|      <stdio.h>     |    Standard Input/Output functions    |
+|     <stdlib.h>     |       Standard Utility functions      |
+|     <string.h>     |       String handling functions       |
+|      <time.h>      |          Date time functions          |
+
+---
+
 ![image](https://user-images.githubusercontent.com/51442719/179425553-e9c5995a-d915-4464-a73e-075679c4db8b.png)
