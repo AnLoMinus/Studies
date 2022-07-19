@@ -11,6 +11,7 @@
   - [Character Variables](#character-variables)
   - [Assign Value to double and char Variables](#assign-value-to-double-and-char-variables)
   - [Change Variable Values](#change-variable-values)
+  - [Value of One Variable to Another](#value-of-one-variable-to-another)
 
 - [Problem Description](#problem-description)
   - [Create a program to print the variable.](#create-a-program-to-print-the-variable)
@@ -190,6 +191,31 @@ int main() {
 
 ---
 
+# Value of One Variable to Another
+- It's also possible to assign the value of one variable to another. 
+> Let's take an example:
+```c
+#include <stdio.h>
+ 
+int main() {
+ 
+  int number1 = 33;
+  printf("%d", number1);
+ 
+  int number2 = 87;
+ 
+  // assign value stored in number2 to number1
+  number1 = number2;
+  printf("  %d", number1);
+ 
+  return 0;
+}
+ 
+// Output: 33  87
+```
+
+
+---
 
 # Problem Description
 
