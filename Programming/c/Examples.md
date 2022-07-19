@@ -9,6 +9,8 @@
   - [Print Variables](#print-variables)
   - [Print double Variables](#print-double-variables)
   - [Character Variables](#character-variables)
+  - [Assign Value to double and char Variables](#assign-value-to-double-and-char-variables)
+  - [Change Variable Values](#change-variable-values)
 
 - [Problem Description](#problem-description)
 
@@ -125,8 +127,39 @@ int main() {
 ```
 - Notice that we have used the `%c` format specifier to print character variables.
 
+---
 
+# Assign Value to double and char Variables
+- Problem Description
+  - Create a program to assign values to double and char variables.
+    - Create a `double` variable named `number` with value `86.99`.
+    - Create a `character` variable named `letter` with value `'z'`.
+    - Print both variables `with two spaces` between them.
+```c
+#include <stdio.h>
+ 
+int main() {
+ 
+  // create double type variable
+  double number = 86.99;
+ 
+  // create a char variable
+  char letter = 'z';
 
+  // print the variable
+  printf("%lf ", number);
+
+  // to print char variable, we use %c
+  printf(" %c", letter);
+
+  return 0;
+}
+  
+ ```
+
+---
+
+# Change Variable Values
 
 
 ---
