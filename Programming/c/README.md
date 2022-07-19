@@ -6,7 +6,12 @@
 
 ---
 
-# [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/)
+<div align="center">
+
+# [C Programming Tutorial](https://www.tutorialspoint.com/cprogramming/) | [Examples](./Examples.md)
+
+</div>
+
 - [x] [C - Home](./C%20-%20Home.md)
 - [x] [C - Overview](./C%20-%20Overview.md)
 - [x] [C - Environment Setup](./C%20-%20Environment%20Setup.md)
