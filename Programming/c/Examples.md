@@ -8,6 +8,7 @@
   - [Declare and Assign Value together](#declare-and-assign-value-together)
   - [Print Variables](#print-variables)
   - [Print double Variables](#print-double-variables)
+  - [Character Variables]()
 
 - [Problem Description](#problem-description)
 
@@ -92,6 +93,22 @@ int main() {
 ```
 
 - Here, we have used `%lf` to print number (a `double` variable).
+
+
+---
+
+# Character Variables
+- A character variable can only store a single character data. 
+- We use the `char` keyword to create char type variables. 
+> For example:
+```c 
+char alphabet = 's';
+```
+- Here, `alphabet` is a character variable with data `'s'`. In C programming, we use single quotes to denote characters.
+- Similar to `int` and `double` variables, we can also print character variables using the `printf()` function. 
+> Let's see an example,
+
+
 
 
 
